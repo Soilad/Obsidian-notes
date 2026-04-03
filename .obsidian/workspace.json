@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "d25400f3bc0bbd86",
+    "type": "split",
+    "children": [
+      {
+        "id": "9757459823d58fa0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "430e578d9a6effbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Halo/Haloalkanes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Haloalkanes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62a3a4d15dbf55c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "37292c095972c721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbfbf2e9e30adbe5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8337e45b0666acd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "resonance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "19c0f942b72290d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2641ef614483e8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d929348ebaa7186",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efaa87ec2a420645",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Carbonyl/Reactions/Carboxylic Acid Reactions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Carboxylic Acid Reactions"
+            }
+          },
+          {
+            "id": "439bdff07d44923e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "00a171dcd603e3cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5f9b3f3f63d6cc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "84d58a00dc5a82dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "430e578d9a6effbe",
+  "lastOpenFiles": [
+    "Carbonyl/Carboxylic Acid.md",
+    "Carbonyl/Carbonyl Naming.md",
+    "Carbonyl/Carbonyl.md",
+    "Halo/Haloarenes.md",
+    "Halo/Haloalkanes.md",
+    "Halo/Reactions",
+    "Halo/Preparation",
+    "Halo",
+    "Nitration.md",
+    "Olics/Olics.md",
+    "Olics/Reaction/Ether Reactions.md",
+    "Amines/Diazonium Salts.md",
+    "Amines/Reactions/Amine Reactions.md",
+    "Inductive Effect.md",
+    "Amines/Reactions/+I effect.md",
+    "Carbonyl/Reactions/Carbonyl Reactions.md",
+    "Olics/Reaction/Phenol Reactions.md",
+    "Carbonyl/Reactions/Carboxylic Acid Reactions.md",
+    "Carbonyl/Preparation/Carbonyl Preparation.md",
+    "Carbonyl/Carboxylic Reactions.md",
+    "Olics/Reaction/Alcohol Reactions.md",
+    "Carbonyl/Preparation/Carboxylic Acid Preparation.md",
+    "Carbonyl/Reactions",
+    "Diagrams.md",
+    "Carbonyl/Diagrams/Enolate_aldol_mechanism.png",
+    "Carbonyl/Diagrams",
+    "Amines/Amines.md",
+    "Olics/Preparation/Phenol Preparation.md",
+    "Amines/Reactions/Diazonium Reactions.md",
+    "Olics/Preparation/Alcohol Preparation.md",
+    "Olics/Ethers.md",
+    "Olics/Olics Naming.md",
+    "Carbonyl/Preparation",
+    "Carbonyl",
+    "Olics",
+    "Amines/Reactions",
+    "Amines/Preparation"
+  ]
+}
