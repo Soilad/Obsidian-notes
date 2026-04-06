@@ -1,0 +1,1 @@
+## MID("akdfaosdji", start, read till(doesnt take in -ve numbers))
