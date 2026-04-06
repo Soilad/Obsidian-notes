@@ -1,10 +1,10 @@
 {
   "accentColor": "#ff0000",
   "translucency": true,
-  "cssTheme": "Transparent",
+  "cssTheme": "Blur",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": "0xProto Nerd Font Mono",
+  "textFontFamily": "",
   "monospaceFontFamily": "",
   "nativeMenus": true
 }

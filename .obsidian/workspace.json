@@ -11,10 +11,14 @@
             "id": "3c17b5d8f417dd01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Compooter/Filedata Types.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Filedata Types"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Compooter/Filedata Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Filedata Types"
             }
           },
           {
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Compooter/Filedata Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Filedata Types"
             }
           },
           {
@@ -151,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Compooter/Filedata Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Filedata Types"
             }
           },
           {
@@ -189,10 +194,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5d879d876c653e3e",
+  "active": "3c17b5d8f417dd01",
   "lastOpenFiles": [
-    "Carbonyl/Carbonyl Naming.md",
+    "Compooter/Expression.md",
     "conflict-files-obsidian-git.md",
+    "Carbonyl/Carbonyl Naming.md",
     "piss/todo.md",
     "piss/create a link.md",
     "piss",
@@ -203,7 +209,6 @@
     "Compooter/Keys.md",
     "Compooter/Filedata Types.md",
     "Compooter/I Try I except.md",
-    "Compooter/Expression.md",
     "Compooter",
     "Chem/Olics/Reaction/Picric Acid.md",
     "Chem/Olics/Reaction/Phenol Reactions.md",
