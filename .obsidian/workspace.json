@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -193,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a69f97381c129bc",
+  "active": "06015ac6025c9c3a",
   "lastOpenFiles": [
     "piss/create a link.md",
     "Compooter/I Try I except.md",

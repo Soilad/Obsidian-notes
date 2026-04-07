@@ -7,7 +7,7 @@
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
-  "autoCommitOnlyStaged": false,
+  "autoCommitOnlyStaged": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -19,12 +19,12 @@
   "syncMethod": "merge",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -38,13 +38,13 @@
   "hunks": {
     "showSigns": false,
     "hunkCommands": false,
-    "statusBar": "disabled"
+    "statusBar": "monochrome"
   },
   "lineAuthor": {
     "show": false,
-    "followMovement": "inactive",
+    "followMovement": "same-commit",
     "authorDisplay": "initials",
-    "showCommitHash": false,
+    "showCommitHash": true,
     "dateTimeFormatOptions": "date",
     "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
     "dateTimeTimezone": "viewer-local",
@@ -61,7 +61,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
+    "gutterSpacingFallbackLength": 19,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   }
