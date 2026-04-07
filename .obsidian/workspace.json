@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "711aafc048310210",
+        "id": "8484d42990d570bc",
         "type": "tabs",
         "children": [
           {
-            "id": "5a69f97381c129bc",
+            "id": "5356ea004f3806a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "piss/todo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "New tab"
             }
           }
         ]
@@ -192,12 +188,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06015ac6025c9c3a",
+  "active": "5356ea004f3806a0",
   "lastOpenFiles": [
+    "Compooter/MAC Adress.md",
+    "piss/todo.md",
+    "conflict-files-obsidian-git.md",
     "piss/create a link.md",
     "Compooter/I Try I except.md",
     "Compooter/MID.md",
-    "Compooter/MAC Adress.md",
     "Compooter/Filedata Types.md",
     "Compooter/Row function.md",
     "Compooter/Keys.md",
@@ -220,8 +218,6 @@
     "Chem/Carbonyl/Reactions/Esterification.md",
     "Chem/Olics/Reaction/Alcohol Reactions.md",
     "Chem/Carbonyl/Reactions/Kolbe.md",
-    "Chem/Carbonyl/Reactions/Carboxylic Acid Reactions.md",
-    "Chem/Bromination.md",
     "Chem/Halo/Reactions",
     "Chem/Halo/Preparation",
     "Chem/Halo/Reactions",
