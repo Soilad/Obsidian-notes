@@ -11,13 +11,16 @@ dhudhudhao dhudhudhudhudhdhtao
 
 #### fucking whatever
 - [ ] texture province to biome
+- [ ] add characters frm interpretermanager
+- [ ] promote on youtub
 - [ ] civil wars
 - [ ] focus editor
 - [ ] add filips focus trees
 #### resources make work good
 - [x] resource tags => literal fucking chemistry
-- [ ] designing (kinda like hoi4 division templates)
+- [x] designing (kinda like hoi4 division templates)
 	 - [x] Power, Water, Waste, People (limit)
+- [ ] actually store all of these in countries
 - [ ] building types 
 	- [ ]  oil rigs
 	- [ ]  mines
@@ -30,7 +33,7 @@ dhudhudhao dhudhudhudhudhdhtao
 	- [ ]  unis
 	- [ ]  town hall???
 	- [ ]  market
-	- [ ]  hospital
+	- [x]  hospital
 	- [ ]  points of interests
 		- [ ] tourism & tax havens
 - [ ] add factories

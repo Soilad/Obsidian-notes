@@ -1,11 +1,12 @@
 [
-  "vimium",
   "obsidian-tagfolder",
   "tag-wrangler",
-  "obsidian-latex-environments",
   "obsidian-chem",
   "chem",
   "obsidian-tikzjax",
   "obsidian-relative-line-numbers",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "sheets",
+  "dataview"
 ]
