@@ -8,6 +8,8 @@ dhudhudhao dhudhudhudhudhdhtao
 55cb5c84fd8ff500c61996a5559c9aa4f93c14e8618e624e1b0010b361f00df0
 
 #### uhhh
+- [ ] learn sandwich theorem
+- [ ] 
 
 #### fucking whatever
 - [ ] texture province to biome
@@ -20,14 +22,14 @@ dhudhudhao dhudhudhudhudhdhtao
 - [x] resource tags => literal fucking chemistry
 - [x] designing (kinda like hoi4 division templates)
 	 - [x] Power, Water, Waste, People (limit)
-- [ ] actually store all of these in countries
+- [x] actually store all of these in countries
 - [ ] building types 
 	- [ ]  oil rigs
 	- [ ]  mines
 	- [ ]  crafts
 	- [ ]  supply?
 	- [ ]  food - famine
-	- [ ]  genocide???
+		- [ ]  genocide???
 	- [ ]  radar
 	- [ ]  air defence
 	- [ ]  unis
@@ -67,3 +69,7 @@ piper-tts -m piper-models/ en_US-kristin-medium/ en_US-kristin-medium.onnx --out
 find window with search
 
   the input types can also be bools
+
+1/R = 2pi
+1/2R = pi
+$2arctan(y\pi) =  \phi$
