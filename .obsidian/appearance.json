@@ -1,10 +1,10 @@
 {
   "accentColor": "#ff0000",
   "translucency": true,
-  "cssTheme": "Blur",
+  "cssTheme": "Pink Topaz",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "Soilad",
   "monospaceFontFamily": "",
   "nativeMenus": true
 }
