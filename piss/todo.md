@@ -73,3 +73,5 @@ find window with search
 1/R = 2pi
 1/2R = pi
 $2arctan(y\pi) =  \phi$
+
+## SOS:R Focus editor Tutorial

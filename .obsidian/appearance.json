@@ -1,9 +1,9 @@
 {
   "accentColor": "#ff0000",
   "translucency": true,
-  "cssTheme": "Pink Topaz",
+  "cssTheme": "Prism",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
+  "interfaceFontFamily": "Soilad",
   "textFontFamily": "Soilad",
   "monospaceFontFamily": "",
   "nativeMenus": true
