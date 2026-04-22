@@ -1,7 +1,8 @@
 ## Magnetic Flux:
-> $\Phi_B = 0$  for closed surfaces
 > SI Unit: Weber (Wb)
 - $\displaystyle \Phi_B = B \cdot A$
-- $\displaystyle \varepsilon = -\frac{d(\Phi_B)}{dt}$
+- $\displaystyle \Phi_B = LI$
+- $\displaystyle \Phi_B = \oint B \cdot dA = 0$
+[[Faraday's Law]]
 ## Lenzs Law:
-- when a magnetic field goes through a conductor, the induced current in the conductor makes a magnetic field to oppose the first magnetic field
+- when magnetic flux changes in a conductor, the induced voltage in the conductor makes a magnetic field to oppose the first magnetic field
