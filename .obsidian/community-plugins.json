@@ -8,5 +8,10 @@
   "obsidian-git",
   "table-editor-obsidian",
   "sheets",
-  "dataview"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "obsidian-style-settings",
+  "circuit-sketcher",
+  "obsidian-circuitjs",
+  "obsidian-desmos"
 ]

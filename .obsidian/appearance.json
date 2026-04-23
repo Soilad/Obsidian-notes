@@ -1,10 +1,10 @@
 {
   "accentColor": "#ff0000",
   "translucency": true,
-  "cssTheme": "Blur",
+  "cssTheme": "Prism",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "interfaceFontFamily": "Soilad",
+  "textFontFamily": "Soilad",
   "monospaceFontFamily": "",
   "nativeMenus": true
 }
