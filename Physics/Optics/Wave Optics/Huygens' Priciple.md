@@ -1,0 +1,3 @@
+- Every point on a wave front behaves like a light source and emits secondary wavelets
+- Secondary wavelets spread in all directions in space with the velocity of light
+- Envelope of wave front of secondary wavelets, after some time, creates a new wave front forward
