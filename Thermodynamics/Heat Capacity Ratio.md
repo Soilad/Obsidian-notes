@@ -1,4 +1,5 @@
-> $\displaystyle \gamma = \frac{C_P}{C_V} = \frac{C_P}{C_P-R} = 1+\frac{R}{C_V}$
+>  $\displaystyle \gamma = \frac{C_P}{C_V} = \frac{C_P}{C_P-R} = 1+\frac{R}{C_V}$
+#### From [[Law of Equipartition]]
 $$
 \begin{align}
 \gamma = 1+\frac R{\frac{dU}{dT}}\\

@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa5de3af3021ff0",
+        "id": "678fd28f8d57ccd0",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2a30cbbb9975a0",
+            "id": "a9c74b0a5bb3eed9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "b4c0c5be1c66c7dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Enthalpy.md",
+                "file": "Physics/Optics/Ray Optics/Prism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enthalpy"
+              "title": "Prism"
+            }
+          },
+          {
+            "id": "3236b839da11dff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Optics/Ray Optics/Optical Power.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Optical Power"
             }
           }
         ]
@@ -53,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "enola",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.505859375
+    "width": 281.5
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -94,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Enthalpy.md",
+                "file": "Carbonyl/Reactions/Carboxylic Acid Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Enthalpy"
+              "title": "Backlinks for Carboxylic Acid Reactions"
             }
           },
           {
@@ -113,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compooter/Filedata Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Filedata Types"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,17 +179,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compooter/Filedata Types.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filedata Types"
+              "title": "Outline"
             }
           },
           {
-            "id": "5d879d876c653e3e",
+            "id": "06015ac6025c9c3a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,13 +198,15 @@
             }
           },
           {
-            "id": "16eac1dcdf6aaf0d",
+            "id": "d4b3e409da153ceb",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "file-properties",
+              "state": {
+                "file": "piss/Bangla Tenses.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Bangla Tenses"
             }
           }
         ],
@@ -194,63 +218,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "5d879d876c653e3e",
+  "active": "a9c74b0a5bb3eed9",
   "lastOpenFiles": [
-    "Thermodynamics/Enthalpy.md",
-    "Physics/Work.md",
-    "Thermodynamics/Heat.md",
-    "Thermodynamics/Carnot Engine.md",
-    "Thermodynamics/Thermodynamic Processes/Adiabatic.md",
-    "Thermodynamics/Second Law.md",
-    "Thermodynamics/Internal Energy.md",
-    "Thermodynamics/Thermodynamic Processes/Isothermal.md",
-    "Chem/Olics/Reaction/Lucas Test.md",
-    "Thermodynamics/State of System.md",
-    "Thermodynamics/First Law.md",
-    "Thermodynamics/Heat Capacity.md",
-    "Thermodynamics/Thermodynamic Process.md",
-    "Thermodynamics/Law of Equipartition.md",
+    "Physics/Electromagnetism/Circuits/Alternating Current.md",
+    "Physics/Electromagnetism/Circuits/LCR Circuit.md",
+    "Physics/Optics/Ray Optics/Ray Optics.md",
+    "Physics/Optics/Ray Optics/Optical Power.md",
+    "Physics/Optics/Ray Optics/Prism.md",
+    "Physics/Optics/Ray Optics/Reflection/Mirror Formula.md",
+    "Physics/Optics/Ray Optics/Prism.excalidraw.md",
+    "Physics/Optics/Ray Optics/Reflection/Reflection.md",
+    "Physics/Optics/Ray Optics/Snell's Law.md",
+    "Physics/Optics/Ray Optics/Refraction/Refraction.md",
+    "Physics/Optics/Ray Optics/Refraction",
+    "Physics/Optics/Ray Optics/Reflection",
+    "Physics/Optics/Ray Optics/Refraction/Lens Maker's Formula.md",
+    "Physics/Optics/Ray Optics/Magnification.md",
     "Thermodynamics/Heat Capacity Ratio.md",
-    "Thermodynamics/Diagrams/Monoatomic.png",
-    "Thermodynamics/Diagrams/Diatomic.png",
-    "Thermodynamics/Diagrams/NonLInearTriatomic.png",
-    "Thermodynamics/Diagrams/LinearTriatomic.png",
-    "Physics/Thermodynamics/Diagrams/2015423-111627133-7307-untitled-c.png",
-    "Physics/Thermodynamics/Diagrams/2015423-111618277-9415-untitled-b.png",
-    "Physics/Thermodynamics/Diagrams/2015423-11168214-5850-untitled-a.png",
-    "Physics/Thermodynamics/Diagrams/2015423-111557136-9677-untitled.png",
-    "Thermodynamics/Diagrams",
-    "Thermodynamics/Thermodynamic Processes/Isochoric.md",
-    "Thermodynamics/Thermodynamic Processes/Isobaric.md",
-    "Thermodynamics/Zeroth Law.md",
-    "Thermodynamics/Thermodynamic Processes",
-    "conflict-files-obsidian-git.md",
-    "piss/Drawing 2026-04-22 22.17.25.excalidraw.md",
-    "Thermodynamics",
-    "Physics/Optics/Ray Optics.md",
-    "Physics/Optics",
-    "Physics/Electromagnetism/Magnetism/Transformers.md",
-    "Physics/Electromagnetism/Magnetism/Moving charges and Magnetism.md",
-    "Physics/Electromagnetism/Magnetism/Magnetic Flux.md",
-    "Physics/Electromagnetism/Magnetism/Magnetic Dipole.md",
+    "Physics/Electromagnetism/Electricity/Coulomb's Law.md",
     "Physics/Electromagnetism/Magnetism/Inductor.md",
+    "Physics/Rotational Motion/Untitled.md",
+    "Physics/Moment of Inertia.md",
+    "Physics/Optics/Ray Optics",
+    "Physics/Electromagnetism/Circuits/Kirchhoff Laws.md",
+    "Physics/Electromagnetism/Circuits/CR Circuit.md",
+    "Physics/Electromagnetism/Circuits/Drawing 2026-04-22 21.26.57.excalidraw.md",
+    "Physics/Electromagnetism/Circuits/Capacitor.md",
+    "Physics/Electromagnetism/Circuits/Resistance.md",
+    "Thermodynamics/Law of Equipartition.md",
+    "Thermodynamics/Heat Capacity.md",
+    "Thermodynamics/State Function.md",
+    "Thermodynamics/Gibbs Free Energy.md",
+    "Physics/Rotational Motion",
+    "Thermodynamics/Diagrams/NonLInearTriatomic.png",
+    "Thermodynamics/Diagrams/Monoatomic.png",
+    "Thermodynamics/Diagrams/LinearTriatomic.png",
+    "Thermodynamics/Diagrams/Diatomic.png",
+    "Thermodynamics/Thermodynamic Processes",
+    "Thermodynamics/Diagrams",
+    "Thermodynamics",
+    "Physics/Thermodynamics",
     "Physics/Electromagnetism/Circuits/LCR_Circuit.circuit-sketcher",
     "Physics/Electromagnetism/Circuits/CR_Circuit.circuit-sketcher",
-    "Physics/Electromagnetism/Magnetism",
-    "Physics/Electromagnetism/Electricity",
-    "Physics/Electromagnetism/Circuits",
-    "Physics/Electromagnetism",
+    "Physics/Electromagnetism/Magnetism/Untitled.canvas",
+    "Untitled.canvas",
     "2026-04-16-194937_hyprshot.png",
     "Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png"
   ]

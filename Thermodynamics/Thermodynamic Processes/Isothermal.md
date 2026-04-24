@@ -1,4 +1,4 @@
-## From [[State of System]]
+## From [[State Function]]
 $$
 \begin{align}
 PV = nRT\\

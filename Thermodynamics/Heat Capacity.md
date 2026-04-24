@@ -20,7 +20,7 @@ Q = \Delta U + W\\
 \implies C_v = \frac{dU}{dT}\\
 \end{align}
 $$
-## From Both [[Mayer's Formula]]
+## From Both ([[Mayer's Formula]])
 $$
 \begin{align}
 C_p-C_v = R
