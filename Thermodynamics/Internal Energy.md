@@ -1,4 +1,4 @@
 - The total energy of all the particles in the system
 - It has all the Kinetic energy and Potential energy of all the particles
 - Depends only on the system
-- changes are result of heat exchange/work
+- changes are result of heat exchange/[[Work]]
