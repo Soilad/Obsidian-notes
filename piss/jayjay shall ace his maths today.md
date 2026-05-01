@@ -1,1 +1,12 @@
-$\chem{SO4}$
+- Learn Tangent segment Theorem
+- $180\frac{n - 2}{n} = \theta$
+- $(180 \theta) n = 360$
+- (SSS)
+- (ASA)
+- (SAS)
+- (ASS)
+![[Drawing 2026-04-29 22.04.04.excalidraw]]
+- $BO = AO$(radii of common circle)
+- $OT = OT$(common line)
+- $BT = AT$(tangents extending from the same point are equal)
+- $\therefore \triangle OBT \cong \triangle OAT$

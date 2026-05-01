@@ -3,8 +3,8 @@
   "translucency": true,
   "cssTheme": "Prism",
   "theme": "obsidian",
-  "interfaceFontFamily": "Soilad",
-  "textFontFamily": "Soilad",
+  "interfaceFontFamily": "Soilad,Arial",
+  "textFontFamily": "Soilad,Arial",
   "monospaceFontFamily": "",
   "nativeMenus": true
 }
