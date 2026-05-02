@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Optics/Ray Optics/Refraction/Refraction.md",
+                "file": "Chem/Amines/Preparation/Amine Preparation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Refraction"
+              "title": "Amine Preparation"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Physics/Optics/Ray Optics/Refraction/Refraction.md",
+            "file": "Chem/Amines/Preparation/Amine Preparation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,10 +172,32 @@
   },
   "active": "013d8341ad7e186c",
   "lastOpenFiles": [
-    "piss/Bangla Tenses.md",
-    "Physics/Optics/Ray Optics/Refraction/Lens Maker's Formula.md",
-    "Physics/Electromagnetism/Biot Savart law.md",
-    "Physics/Electromagnetism/Moving charges and Magnetism.md",
-    "piss/todo.md"
+    "Chem/Amines/Amines.md",
+    "Chem/Carbonyl/Reactions/Carbonyl Reactions.md",
+    "Chem/Carbonyl/Reactions/Fehling.md",
+    "Chem/Carbonyl/Reactions/Tollens.md",
+    "Chem/Carbonyl/Reactions/Clemmensen.md",
+    "Chem/Carbonyl/Reactions/Wolf-Kishner.md",
+    "Chem/Azo Dye.md",
+    "Chem/Halo/Reactions/Grignard.md",
+    "Chem/Carbonyl/Carbonyl.md",
+    "Chem/Carbonyl/Preparation/Carbonyl Preparation.md",
+    "Chem/Olics/Preparation/Ether Preparation.md",
+    "Chem/Olics/Ethers.md",
+    "Chem/Olics/Olics.md",
+    "Chem/Olics/Reaction/Phenol Reactions.md",
+    "Chem/Olics/Reaction/Alcohol Reactions.md",
+    "Chem/Olics/Reaction/Lucas Test.md",
+    "Chem/Olics/Preparation/Phenol Preparation.md",
+    "Chem/Amines/Reactions/Amine Reactions.md",
+    "Chem/Olics/Preparation/Alcohol Preparation.md",
+    "Chem/Halo/Reactions/Halo Reactions.md",
+    "Chem/Sulphonation.md",
+    "Chem/Nitration.md",
+    "Chem/Halogenation.md",
+    "Chem/Halo/Preparation/Halo Preparation.md",
+    "Chem/Amines/Reactions/Gattermann.md",
+    "Chem/Amines/Reactions/Sandmeyer.md",
+    "Physics/Optics/Wave Optics"
   ]
 }

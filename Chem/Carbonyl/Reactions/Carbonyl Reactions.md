@@ -38,7 +38,7 @@ OC([R])([R])N[Z]>>[Z]N=C([R])([R]).O
 	> Aldehydes easily oxidise; ketones require vigorous conditions
 	- **Aldehydes**
 		$\ce{RCHO ->[HNO3/KMnO4/K2CrO7] RCOOH}$
-		- **Mild Oxidizing Agents:
+		- **Mild Oxidizing Agents:**
 			- [[Tollens]]
 			- [[Fehling]]
 	- **Ketones**
