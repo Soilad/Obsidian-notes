@@ -26,3 +26,4 @@ y=1.2*\sin(x)
 ```
 #### [[Magnetic Dipole]]
 #### [[Transformers]]
+#### [[LCR Circuit]]

@@ -17,6 +17,7 @@ $\displaystyle C_{eff} = \sum C_i$
 #### [[Potential Energy]] stored
 $\displaystyle U = \frac {CV^2}2$
 #### [[CR Circuit]]
+#### [[LCR Circuit]]
 ### In [[Alternating Current]]
 $$
 \displaystyle

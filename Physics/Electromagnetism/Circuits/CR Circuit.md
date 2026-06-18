@@ -7,7 +7,7 @@ top=1; bottom=0;
 y=1-e^{-x}
 y=e^{-x}
 ```
-#### From [[Kirchhoff Laws]]
+## From [[Kirchhoff Laws]]
 $$
 \begin {align}
 V - \frac QC - IR = 0\\
@@ -26,5 +26,5 @@ V - \frac QC - IR = 0\\
 \implies I(t) = \frac{Q_f}{RC}e^{\frac {-t}{RC}}\\
 \end {align}
 $$
-#### [[Reactance]]
+## [[Reactance]]
 $\displaystyle X_c = \frac1{C\omega}$

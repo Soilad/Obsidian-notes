@@ -15,3 +15,5 @@ y=0.5
 y=\sqrt{0.5}
 ```
 - basically jst approximations the alternating value
+[[CR Circuit]]
+[[LCR Circuit]]
