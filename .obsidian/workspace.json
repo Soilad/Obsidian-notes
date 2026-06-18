@@ -4,11 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa5de3af3021ff0",
+        "id": "678fd28f8d57ccd0",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2a30cbbb9975a0",
+            "id": "a9c74b0a5bb3eed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "piss/todo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "48afdb759e72114e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-17 20.56.07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-17 20.56.07.excalidraw"
+            }
+          },
+          {
+            "id": "392ef76f24850053",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "2026-04-16-194937_hyprshot.png"
+              },
+              "icon": "lucide-image",
+              "title": "2026-04-16-194937_hyprshot"
+            }
+          },
+          {
+            "id": "b6277912fd5b54ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +58,51 @@
               "icon": "lucide-file",
               "title": "jayjay shall ace his maths today"
             }
+          },
+          {
+            "id": "9e5da74e42e3c13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "piss/jayjay shall ace his maths today.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "jayjay shall ace his maths today"
+            }
+          },
+          {
+            "id": "94a946c627376ba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "piss/Viveka.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Viveka"
+            }
+          },
+          {
+            "id": "4fa2f2204eb3f496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "piss/Soi Script.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soi Script"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -53,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "enola",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.505859375
+    "width": 281.5
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -94,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Enthalpy.md",
+                "file": "Carbonyl/Reactions/Carboxylic Acid Reactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +185,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Enthalpy"
+              "title": "Backlinks for Carboxylic Acid Reactions"
             }
           },
           {
@@ -113,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compooter/Filedata Types.md",
+                "file": "piss/Soi Script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Filedata Types"
+              "title": "Outgoing links from Soi Script"
             }
           },
           {
@@ -156,17 +237,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compooter/Filedata Types.md",
+                "file": "piss/Soi Script.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Filedata Types"
+              "title": "Outline of Soi Script"
             }
           },
           {
-            "id": "5d879d876c653e3e",
+            "id": "06015ac6025c9c3a",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,13 +257,15 @@
             }
           },
           {
-            "id": "16eac1dcdf6aaf0d",
+            "id": "d4b3e409da153ceb",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "file-properties",
+              "state": {
+                "file": "piss/Soi Script.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Soi Script"
             }
           }
         ],
@@ -194,64 +277,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "5d879d876c653e3e",
+  "active": "06015ac6025c9c3a",
   "lastOpenFiles": [
-    "piss/jayjay shall ace his maths today.md",
-    "conflict-files-obsidian-git.md",
+    "piss/Viveka.md",
+    "piss/Soi Script.md",
+    "piss/colleg.md",
+    "piss/Bangla Tenses.md",
+    "piss/create a link.md",
+    "piss/todo.md",
     "piss/Group think V2.md",
-    "Thermodynamics/Third Law.md",
-    "Thermodynamics/State Function.md",
-    "Thermodynamics/Standard Gibbs Energy Change.md",
-    "Thermodynamics/Spontaneity.md",
-    "Thermodynamics/Mayer's Formula.md",
-    "Thermodynamics/Laws of Thermodynamics.md",
-    "Thermodynamics/Hess' Law.md",
-    "Thermodynamics/Gibbs Free Energy.md",
-    "Thermodynamics/Entropy.md",
-    "Physics/Thin rod at Central axis.md",
-    "Physics/Solid Sphere.md",
-    "Physics/Solid Cylinder.md",
-    "Physics/Rotational Motion/Untitled.md",
-    "Physics/Rotational Motion/Torque.md",
-    "Physics/Rotational Motion",
-    "Physics/Moment of Inertia.md",
-    "Physics/Hollow Sphere.md",
+    "Excalidraw/Drawing 2026-05-17 20.56.07.excalidraw.md",
+    "piss/jayjay shall ace his maths today.md",
+    "2026-04-16-194937_hyprshot.png",
     "Excalidraw/Drawing 2026-04-29 22.04.04.excalidraw.md",
     "Excalidraw/Drawing 2026-04-29 22.01.52.excalidraw.md",
     "Excalidraw/Drawing 2026-04-29 22.00.22.excalidraw.md",
     "Excalidraw/Drawing 2026-04-29 21.19.37.excalidraw.md",
     "Excalidraw",
-    "Thermodynamics/Enthalpy.md",
-    "Physics/Work.md",
-    "Thermodynamics/Heat.md",
-    "Thermodynamics/Diagrams/Monoatomic.png",
-    "Thermodynamics/Diagrams/Diatomic.png",
+    "Physics/Optics/Ray Optics/Optical Power.md",
+    "Physics/Optics/Wave Optics/Young's Double Slit Experiment.md",
+    "Physics/Optics/Wave Optics/Wave Optics.md",
+    "Physics/Optics/Ray Optics/Prism.md",
+    "Physics/Optics/Wave Optics/Drawing 2026-04-25 02.25.24.excalidraw.md",
+    "Physics/Optics/Wave Optics/Huygens' Priciple.md",
+    "Physics/Optics/Wave Optics",
+    "Physics/Electromagnetism/Circuits/Alternating Current.md",
+    "Physics/Electromagnetism/Circuits/LCR Circuit.md",
+    "Physics/Optics/Ray Optics/Ray Optics.md",
+    "Physics/Optics/Ray Optics/Reflection/Mirror Formula.md",
+    "Physics/Optics/Ray Optics/Prism.excalidraw.md",
+    "Physics/Optics/Ray Optics/Reflection/Reflection.md",
+    "Physics/Optics/Ray Optics/Snell's Law.md",
+    "Physics/Optics/Ray Optics/Refraction",
+    "Physics/Optics/Ray Optics/Reflection",
+    "Physics/Optics/Ray Optics",
+    "Physics/Rotational Motion",
     "Thermodynamics/Diagrams/NonLInearTriatomic.png",
+    "Thermodynamics/Diagrams/Monoatomic.png",
     "Thermodynamics/Diagrams/LinearTriatomic.png",
-    "Physics/Thermodynamics/Diagrams/2015423-111627133-7307-untitled-c.png",
-    "Physics/Thermodynamics/Diagrams/2015423-111618277-9415-untitled-b.png",
-    "Physics/Thermodynamics/Diagrams/2015423-11168214-5850-untitled-a.png",
-    "Physics/Thermodynamics/Diagrams/2015423-111557136-9677-untitled.png",
-    "Thermodynamics/Diagrams",
+    "Thermodynamics/Diagrams/Diatomic.png",
     "Thermodynamics/Thermodynamic Processes",
+    "Thermodynamics/Diagrams",
     "Thermodynamics",
-    "Physics/Optics",
-    "Physics/Electromagnetism/Circuits/LCR_Circuit.circuit-sketcher",
-    "Physics/Electromagnetism/Circuits/CR_Circuit.circuit-sketcher",
-    "Physics/Electromagnetism/Magnetism",
-    "Physics/Electromagnetism/Electricity",
-    "2026-04-16-194937_hyprshot.png",
+    "Physics/Thermodynamics",
+    "Physics/Electromagnetism/Magnetism/Untitled.canvas",
+    "Untitled.canvas",
     "Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png"
   ]
 }
