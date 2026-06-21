@@ -63,7 +63,8 @@
               "title": "Electric Flux"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,17 +250,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a2a30cbbb9975a0",
+  "active": "5d879d876c653e3e",
   "lastOpenFiles": [
-    "Physics/Electromagnetism/Magnetism/Magnetic Flux.md",
     "Physics/Electromagnetism/Magnetism/Amphere circuital law.md",
+    "conflict-files-obsidian-git.md",
+    "piss/colleg.md",
+    "piss/Viveka.md",
+    "piss/Soi Script.md",
+    "Excalidraw/Drawing 2026-05-17 20.56.07.excalidraw.md",
+    "Physics/Electromagnetism/Magnetism/Magnetic Flux.md",
     "Physics/Electromagnetism/Magnetism/Faraday's Law.md",
     "Physics/Electromagnetism/Electricity/Electric Flux.md",
     "Physics/Electromagnetism/Electricity/Electric Field.md",
     "Physics/Electromagnetism/Magnetism/Displacement Current.md",
     "piss/Group think V2.md",
     "piss/jayjay shall ace his maths today.md",
-    "conflict-files-obsidian-git.md",
     "Thermodynamics/Third Law.md",
     "Thermodynamics/State Function.md",
     "Thermodynamics/Standard Gibbs Energy Change.md",
@@ -273,11 +278,7 @@
     "Physics/Solid Sphere.md",
     "Physics/Solid Cylinder.md",
     "Physics/Rotational Motion/Untitled.md",
-    "Physics/Rotational Motion/Torque.md",
     "Physics/Rotational Motion",
-    "Physics/Moment of Inertia.md",
-    "Physics/Hollow Sphere.md",
-    "Excalidraw/Drawing 2026-04-29 22.04.04.excalidraw.md",
     "Excalidraw",
     "Thermodynamics/Diagrams/Monoatomic.png",
     "Thermodynamics/Diagrams/Diatomic.png",

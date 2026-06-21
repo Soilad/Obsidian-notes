@@ -14,7 +14,7 @@
 	$\ce{C\equiv CR ->[H2SO4] RCOCH3}$
 ### Specific Methods For Aldehydes:
 1. **Acyl Chloride:** (Rosenmund Reduction)
-	- $\ce{ROCl ->[H2/Pd-BaSO4] ROH}$
+	- $\ce{RCOCl ->[H2/Pd-BaSO4] RCHO}$
 2. **Nitriles and Esters:**
 	- Stephen:
 		$\ce{RCN ->[SnCl2/HCl] R=CNH ->[H2O] RCHO}$

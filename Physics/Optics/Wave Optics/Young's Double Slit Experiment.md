@@ -20,3 +20,5 @@ x \frac dD = (2n+1)\frac\lambda 2\\
 \implies x  = (2n+1)\frac\lambda 2\frac Dd\\
 \end{align}
 $$
+## Diffraction Grating Formula
+- $d\sin\theta = n\lambda$
