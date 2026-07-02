@@ -44,7 +44,6 @@ Why are you here-JESUS KRISHNA WHAT IS THAT?!?!?!?
 ##### Subramaniam
 Oh yea, I remember now. Basically what you two have is I think an archon assigned to both of you, because that's what usually makes you blind and makes your suffering activate its power, Anyways.
 > Subramaniam COOCHIE COOCHIE COO''s the Archon. Then, Scary Archon noises.
-- NOTE(soi): zweistein should ask more about archons later.
 
 0_0
 ##### Zweistein
@@ -54,7 +53,7 @@ Oh yea. It's some church guy I met him back when I was stuck as an auto driver i
 ##### Subramaniam
 I almost became pope you know?
 ##### Lenin
-AHEM, AHEM. ~I need the Soilad channel for propaganda Sawman~.
+What the fuck is an Archon? Anyways, AHEM, AHEM. ~I need the Soilad channel for propaganda Sawman~.
 ##### Sawman
 Wait what?!?! Joseph didn't die for this!
 ##### Lenin
@@ -97,7 +96,7 @@ What is that thing you're doing, why are you doing that, stop that, it's weird, 
 ##### Zweistein
 K, Fine...
 ##### Sawman
-I usually keep receipts in the cup board over there. So maybe we should check that.
+I usually keep receipts in the cupboard over there. So maybe we should check that.
 ##### Zweistein
 Ight. Im gonna check his phone incase if there's anything interesting there.
 > Sawman opens to find an anime waifu poster.
@@ -127,3 +126,6 @@ I uh, don't touch that until i get my black-light out.
 Zweistein, I found the card that kid gave me, this probably isn't relevant to the case right?
 ##### Zweistein
 Eh, just in case.
+
+# Intermission
+- NOTE(soi): zweistein should ask more about archons later.
