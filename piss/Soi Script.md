@@ -126,6 +126,166 @@ I uh, don't touch that until i get my black-light out.
 Zweistein, I found the card that kid gave me, this probably isn't relevant to the case right?
 ##### Zweistein
 Eh, just in case.
-
 # Intermission
-- NOTE(soi): zweistein should ask more about archons later.
+##### Zweistein
+Anyways, I think we are done here. I'm gonna confront Lenin on this
+> Subramaniam comes in while Zweistein leaves and the Intermission text shows
+##### Subramaniam
+Sawman. Have you seen the new Soilad video?
+##### Sawman
+Wait what? How is that even possible?
+##### Subramaniam
+Dunno, I'm assuming it's an old video
+##### Sawman
+*opens video* How do you even know his channel anyway?
+##### Subramaniam
+It's like, the most popular from here considering ppl don't use youtube nowadays
+##### Sawman
+Say, Is the thing behind you one of those archons or something?
+##### Subramaniam
+Oh no, I think its an Aeon considering it doesn't really have malicious intent.
+##### Sawman
+Alright. Now let me take a look at this video.
+> Thrilling timeskip of video length followed by shocked Sawman reaction
+# Court
+> Vaibhav sings FDJ
+##### Lenin
+Ight, This court shall be on the case on the alleged "murder" of Internet Personality Soilad, may the defense state their opening.
+##### Sawman
+..., where is Subramaniam?
+> Subramaniam breaks in from the window
+##### Lenin
+We have been waiting here just so he could do that, Anyways. present your case as to why Soilad didn't Kurt Cobain himself.
+##### Sawman
+WHY IS THERE A LOADED GUN IN THE EVIDENCE???
+##### Zweistein
+Yea exactly! if Soilad wanted to end it he would have used this instead.
+##### Lenin
+Ah true.
+##### Subramaniam
+Suicide isn't illegal?
+##### Sawman
+(hmm, wait there's a receipt on the purchase of that poster. this means i gotta figure out how to prove that joseph was in the anime convention)
+##### Subramaniam
+(*microwave noises*)
+##### Sawman
+You child-
+##### Lenin
+Your honour*
+##### Sawman
+Nee oru loosu, take a look at this *shows the anime poster*
+##### Subramaniam
+AHHHH SEQUEL WOMEN!!!!
+##### Lenin
+.........., where did you find this?
+##### Sawman
+With the receipt for this poster found in the trashcan, we can conclude that there could have been more to Joseph's death than just a suicide.
+##### Subramaniam
+Hmm, but do you have definitive proof that Jesus was actually there
+##### Lenin
+This character isn't even from an anime too. how does this even exist?
+##### Sawman
+In the "I Went To An Anime Convention So You Don't Have To" video, there was a doppleganger of me. However, the only person that could have copied my cosplay verbatim could only be Joseph
+##### Lenin
+Checking the convention records right now and he's right. that cosplayer has the same number that JoJo's bizzare suicide has.
+##### Subramaniam
+Why would he even want to be there, if you're insinuating that he got the rope from the anime convention. then that does not change the fact that Jesus killed himself.
+##### Sawman
+(fuck he's right, wait where's the censorsnake?)
+> cutaways to Subramaniam having the censorsnake like Shiva
+
+(hmmm. wait, THE VIDEO)
+Your Boner, In "The Lost Soilad Video" the date on the top right corner appears to change whenever there appears to be the mention of the word "suicide"
+##### Lenin
+Oh yea I tampered with the evidence.
+##### Sawman
+WHAT DO YOU MEAN YOU TAMPERED WITH THE EVIDENCE?!
+##### Lenin
+The Censorsnake doesn't censor "suicide" yea I know it's very fucked up, plus I recovered more of the original footage so...
+##### Sawman
+Ok good, because there is a clear struggle of Joseph between the uh... creature
+(anyways, what do ace attorney lawyers do when they're at a dead end?)
+> pans to Zweistein.
+
+##### Zweistein
+(gun, card, metaphysical creature, gun, card, mind creature, gun, card, persona-wait)
+Your honour, this was a clearly orchestrated plan for some malicious people to take over Joshua's mind palace and to take his will.
+> indian serial drama camera actions on fucking everyone
+##### Lenin
+what the fuck does that mean?
+##### Zweistein
+its a Persona reference Vaibhav, and if you want proof *gives gun to Lenin* aim this at your head
+##### Subramaniam
+I uh, Vaibhav you know you don't have to do this right?
+##### Lenin
+relax *fucking mag dumps like clavicular on a crocodile* he didn't tell me to shoot myself right?
+##### Sawman
+AH MY FACKING EARS.
+> Lenin Persona awakening
+##### Subramaniam
+I uh, um. yea, ok. Persona's are real. yep.
+##### Sawman
+so the people that gave Joseph the calling card and rope are responsible for his death. it's a shame that we don't know where they are-
+> Zweistein cuts himself to summon them
+##### Zweistein
+They're here.
+##### Sawman
+Wait wha-
+##### Hasbulla & JayJay
+OH FUCK!!!
+##### Zweistein
+They're here, get the cross examination over with QUICK
+##### Lenin
+JAYJAY?!?!?
+##### JayJay
+LENIN?!?!?!
+##### JayJay
+Ok i'll be completely honest, He just told me to give the rope to the guy! I didn't know this was for killing soilad
+##### Hasbulla
+No he has this app that like puts you in someone's head and then you kill them there.
+##### Zweistein
+SO IT IS A PERSONA REFERENCE!
+##### Subramaniam
+Welly well wlw. Sawman, It seems you that you forgot the main part of a murder.
+##### Sawman
+Which is?
+##### Subramaniam
+Motive. You aren't a circus Chain you're just a Sawman, you don't even have hot clowngirls- 
+##### JayJay
+CLOWNGIRLS!? WHERE.
+> Hasbulla fucks off.
+##### Lenin
+JayJay. Include clownboys too, stop being misogynistic.
+##### Zweistein
+*bandages arm* can you three stop being horndogs for a minute? someone died!
+##### JayJay
+Ok I'll give my testimony. I was walking in the streets of Vyadpore and then I get hit by a fucking semi right?
+##### Subramaniam
+Aww sick. the witness died.
+##### JayJay
+No shut up. I didn't get knocked over. I got this weird eye icon app on my phone.
+##### Sawman
+OBJECT-
+##### Lenin
+NO DON'T SAY THAT KONAMI WOULD SUE!
+##### Sawman
+Ok fine, NO THAT'S WRONG-
+##### Lenin
+CHUNSOFT-
+##### Sawman
+ADE PAAVI, During an archon awakening, the effect of one's archon activate after they sense the trauma, and this case is starting to sound like what happened to me...
+##### JayJay
+The court is actually entertaining this?
+##### Subramaniam
+No objection.
+##### JayJay
+Ok so after I got hit by a truck, my archon somehow reversed time and then I had this voice in my head telling me to kill Josh.
+##### Sawman
+Hold on a minute, I had this archon before, you're telling me that
+1. The same archon possesed you
+2. This archon became stronger somehow
+3. This archon coerced you into this?
+##### JayJay
+I couldn't help it, it's for the greater go- *passes out*.
+##### Lenin
+FUCK HE'S GONE, GUARD GET HIS ASS
