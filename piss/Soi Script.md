@@ -135,7 +135,7 @@ Sawman. Have you seen the new Soilad video?
 ##### Sawman
 Wait what? How is that even possible?
 ##### Subramaniam
-Dunno, I'm assuming it's an old video
+Dunno, I'm assuming it's an old video.
 ##### Sawman
 *opens video* How do you even know his channel anyway?
 ##### Subramaniam
@@ -144,6 +144,10 @@ It's like, the most popular from here considering ppl don't use youtube nowadays
 Say, Is the thing behind you one of those archons or something?
 ##### Subramaniam
 Oh no, I think its an Aeon considering it doesn't really have malicious intent.
+##### Sawman
+Was it also from like some sort of trauma.
+##### Subramaniam
+Yea. from Carthaginians...
 ##### Sawman
 Alright. Now let me take a look at this video.
 > Thrilling timeskip of video length followed by shocked Sawman reaction
