@@ -42,7 +42,7 @@ Anyways.
 
 Why are you here-JESUS KRISHNA WHAT IS THAT?!?!?!?
 ##### Subramaniam
-Oh yea, I remember now. Basically what you two have is I think an archon assigned to both of you, because that's what usually makes you blind and makes your suffering activate its power, Anyways.
+Oh yea, I remember now. Basically what I think Zweistein has is an archon assigned to him, because that's what usually makes you blind and makes your pain activate it, Anyways.
 > Subramaniam COOCHIE COOCHIE COO''s the Archon. Then, Scary Archon noises.
 - NOTE(soi): zweistein should ask more about archons later.
 
@@ -50,7 +50,7 @@ Oh yea, I remember now. Basically what you two have is I think an archon assigne
 ##### Zweistein
 Sawman, who is this kid?
 ##### Sawman
-Oh yea. It's some church guy I met him back when I was stuck as an auto driver in Egypt.
+Oh yea. It's some Christian dude  I met him back when I was stuck as an auto driver in Egypt.
 ##### Subramaniam
 I almost became pope you know?
 ##### Lenin
