@@ -3,13 +3,13 @@
 	- [ ] Electric Tooth
 	- [ ] Trimmer
 	- [ ] Tongue Scraper
-	- [ ] Deodorant
+	- [x] Deodorant
 	- [ ] Carbon-Fiber Whiteface Facewash
 - [ ] Electric Stove
-- [ ] Muhammadian eyeliner
+- [x] Muhammadian eyeliner
 - [ ] Olive Oil?
 - [ ] Pots & Pans
-- [ ] Blanket
+- [x] Blanket
 - [ ] Milk-chan Waifu Body Pillow
 ## Safety
 - [ ] Zipties
@@ -19,13 +19,13 @@
 - [ ] Knife
 - [ ] Taser
 ## Belonging
-- [ ] Phone
-- [ ] IPad
-- [ ] Better Macbook
+- [x] Phone
+- [x] IPad
+- [x] Better Macbook
 - [ ] Doingle
-- [ ] Pen drives
-- [ ] IPad Pencil
-- [ ] big asf charger
+- [x] Pen drives
+- [x] IPad Pencil
+- [x] big asf charger
 ## Content Creation
 - [ ] Greenscreen
 - [ ] Camera

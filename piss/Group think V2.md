@@ -1,6 +1,7 @@
 #### Mod suggestions to make ppl work together
 - mod tht requires a friend to make u respawn
 - Proximity VC
+- desh for the psi and dyson sphere
 - Silent gear meatalworks for 1.20.1/give up and use tinkers
 #### Things to add
 - botania stuff
