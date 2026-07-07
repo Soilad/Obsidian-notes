@@ -243,7 +243,6 @@ They're here, get the cross examination over with QUICK
 JAYJAY?!?!?
 ##### JayJay
 LENIN?!?!?!
-##### JayJay
 Ok i'll be completely honest, He just told me to give the rope to the guy! I didn't know this was for killing soilad
 ##### Hasbulla
 No he has this app that like puts you in someone's head and then you kill them there.
