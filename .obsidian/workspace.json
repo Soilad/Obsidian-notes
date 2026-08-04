@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "piss/Soi Script.md",
+                "file": "piss/Me Ne Frego.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Soi Script"
+              "title": "Me Ne Frego"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -208,13 +209,13 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "06015ac6025c9c3a",
+  "active": "334724eff9976815",
   "lastOpenFiles": [
     "piss/Soi Script.md",
+    "piss/Me Ne Frego.md",
     "conflict-files-obsidian-git.md",
     "piss/colleg.md",
     "piss/Viveka.md",
-    "piss/Group think V2.md",
     "Thermodynamics/Thermodynamic Processes/Isothermal.md",
     "Thermodynamics/Thermodynamic Processes/Isochoric.md",
     "Thermodynamics/Thermodynamic Processes/Isobaric.md",
