@@ -186,6 +186,16 @@
               "icon": "lucide-info",
               "title": "File properties for Bangla Tenses"
             }
+          },
+          {
+            "id": "2e19f72f675d50ee",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 5
@@ -209,7 +219,7 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "334724eff9976815",
+  "active": "06015ac6025c9c3a",
   "lastOpenFiles": [
     "piss/Soi Script.md",
     "piss/Me Ne Frego.md",

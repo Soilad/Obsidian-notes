@@ -33,13 +33,17 @@
 - [ ] Villager Refugees
 - [ ] Add god
 - [ ] Gaiss Recipes for both Light and Dark magic
+- [ ] Add weird funky Wither-Wither-Tentacle to The Midnight
+- [x] One day butchery won't have buggy armour stands
+- [ ] Use OEI to Reduce Pain for EVERYONE
 #### Lore
 - Steve Kills enderdragon but dies to wither
+- Wither becomes funky so Alex puts it in The Midnight
 - Light and Dark magic were buddies but broke off causing the schism (explains why botania and occultism shares resources for starting them)
 - Tech is a rebellion of both and broke off due to schism
 - Tech leads to a world war-esque scenario
 - Tech becomes Sci-Fi
-- Light and Dark magic mend schism due to Gaiss from Mahou Tsukai and turn into Oriental magic (name pending)
+- Light and Dark magic mend schism due to and turn into Oriental magic (name pending) (Gaiss gives freedom for magicians to have custom allegiances)
 - Oriental magic achieve infinite resources with mystical agriculture
 - Sci-Fi becomes buddies with Oriental magic bcuz infinite resources (ProjectE is made as a result)
 -  smthng smthng juiced up wither is in glacio or smthng
