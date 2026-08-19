@@ -163,7 +163,7 @@ We have been waiting here just so he could do that, Anyways. present your case a
 ##### Sawman
 WHY IS THERE A LOADED GUN IN THE EVIDENCE???
 ##### Zweistein
-Yea exactly! if Soilad wanted to end it he would have used this instead.
+Yea exactly! if Joshua wanted to end it he would have used this instead.
 ##### Lenin
 Ah true.
 ##### Subramaniam

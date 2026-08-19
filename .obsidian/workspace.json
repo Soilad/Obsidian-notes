@@ -13,15 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "piss/Soi Script.md",
+                "file": "VIT/ECE/1002/Active.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soi Script"
+              "title": "Active"
+            }
+          },
+          {
+            "id": "58271ffa347fe8d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIT/ECE/1002/Ideal Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideal Sources"
+            }
+          },
+          {
+            "id": "196eb2cdcf2d9179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIT/MAT/1001/Moving Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moving Functions"
+            }
+          },
+          {
+            "id": "fee30ab193296ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIT/MAT/1001/Moving Functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moving Functions"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -41,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enola",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -208,8 +252,28 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "06015ac6025c9c3a",
+  "active": "fee30ab193296ede",
   "lastOpenFiles": [
+    "VIT/MAT/1001/Even&Odd Functions.md",
+    "VIT/MAT/1001/Moving Functions.md",
+    "Physics/Electromagnetism/Circuits/Capacitor.md",
+    "VIT/MAT/Drawing 2026-08-19 21.31.53.excalidraw.md",
+    "VIT/ECE/1002/Ideal Sources.md",
+    "VIT/MAT/1001",
+    "VIT/MAT",
+    "VIT/ECE/1002/Active.md",
+    "VIT/ECE/1002/Drawing 2026-08-19 17.14.30.excalidraw.md",
+    "VIT/ECE/1002/Drawing 2026-08-19 17.14.30.excalidraw 1.md",
+    "VIT/ECE/1002/Drawing 2026-08-19 12.44.33.excalidraw.md",
+    "VIT/ECE/1002/Lateral.md",
+    "VIT/ECE/1002/Linearity.md",
+    "VIT/ECE/1002/Untitled.md",
+    "2026-04-16-194937_hyprshot.png",
+    "piss/VTop-2.md",
+    "VIT/ECE/1002",
+    "VIT/ECE",
+    "VIT",
+    "piss/todo.md",
     "piss/Soi Script.md",
     "conflict-files-obsidian-git.md",
     "piss/colleg.md",
@@ -227,32 +291,12 @@
     "Thermodynamics/Third Law.md",
     "Thermodynamics/Thermodynamic Processes",
     "Thermodynamics/Thermodynamic Process.md",
-    "Thermodynamics/State Function.md",
-    "Thermodynamics/Standard Gibbs Energy Change.md",
-    "Thermodynamics/Spontaneity.md",
-    "Thermodynamics/Second Law.md",
-    "Thermodynamics/Mayer's Formula.md",
-    "Thermodynamics/Laws of Thermodynamics.md",
-    "Thermodynamics/Law of Equipartition.md",
-    "Thermodynamics/Internal Energy.md",
-    "Thermodynamics/Hess' Law.md",
-    "Thermodynamics/Heat.md",
-    "Thermodynamics/Heat Capacity.md",
-    "Thermodynamics/Heat Capacity Ratio.md",
-    "Thermodynamics/Gibbs Free Energy.md",
-    "Thermodynamics/First Law.md",
     "Thermodynamics/Diagrams",
     "Thermodynamics",
     "Physics/Rotational Motion",
     "Physics/Optics/Wave Optics",
-    "Physics/Optics/Ray Optics/Refraction",
-    "Physics/Optics/Ray Optics/Reflection",
-    "Physics/Optics/Ray Optics",
-    "Excalidraw",
-    "Physics/Thermodynamics",
     "Physics/Electromagnetism/Magnetism/Untitled.canvas",
     "Untitled.canvas",
-    "2026-04-16-194937_hyprshot.png",
     "Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png"
   ]
 }
