@@ -62,9 +62,37 @@
               "icon": "lucide-file",
               "title": "Moving Functions"
             }
+          },
+          {
+            "id": "a2ab92004d8936d1",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "cdbcac453b0ff4ed",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "conflict-files-obsidian-git.md",
+                "bFile": "conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -252,10 +280,12 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "fee30ab193296ede",
+  "active": "cdbcac453b0ff4ed",
   "lastOpenFiles": [
-    "VIT/MAT/1001/Even&Odd Functions.md",
+    "conflict-files-obsidian-git.md",
     "VIT/MAT/1001/Moving Functions.md",
+    "piss/Me Ne Frego.md",
+    "VIT/MAT/1001/Even&Odd Functions.md",
     "Physics/Electromagnetism/Circuits/Capacitor.md",
     "VIT/MAT/Drawing 2026-08-19 21.31.53.excalidraw.md",
     "VIT/ECE/1002/Ideal Sources.md",
@@ -275,7 +305,6 @@
     "VIT",
     "piss/todo.md",
     "piss/Soi Script.md",
-    "conflict-files-obsidian-git.md",
     "piss/colleg.md",
     "piss/Viveka.md",
     "piss/Group think V2.md",
@@ -290,7 +319,6 @@
     "Thermodynamics/Zeroth Law.md",
     "Thermodynamics/Third Law.md",
     "Thermodynamics/Thermodynamic Processes",
-    "Thermodynamics/Thermodynamic Process.md",
     "Thermodynamics/Diagrams",
     "Thermodynamics",
     "Physics/Rotational Motion",
