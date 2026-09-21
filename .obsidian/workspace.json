@@ -8,91 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "334724eff9976815",
+            "id": "01297442b187983c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIT/ECE/1002/Active.md",
+                "file": "VIT/PHY/1008/Interference Intensity Distribution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active"
+              "title": "Interference Intensity Distribution"
             }
           },
           {
-            "id": "58271ffa347fe8d5",
+            "id": "df037e89e503b9d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIT/ECE/1002/Ideal Sources.md",
+                "file": "VIT/PHY/1008/Fringe Width.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideal Sources"
+              "title": "Fringe Width"
             }
           },
           {
-            "id": "196eb2cdcf2d9179",
+            "id": "ddaba1a8a237f0a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIT/MAT/1001/Moving Functions.md",
+                "file": "VIT/PHY/1008/Thin Film.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moving Functions"
+              "title": "Thin Film"
             }
           },
           {
-            "id": "fee30ab193296ede",
+            "id": "efc9e777d85fe220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIT/MAT/1001/Moving Functions.md",
+                "file": "piss/Video Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moving Functions"
-            }
-          },
-          {
-            "id": "a2ab92004d8936d1",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "cdbcac453b0ff4ed",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "title": "Video Ideas"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -280,49 +252,50 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "cdbcac453b0ff4ed",
+  "active": "efc9e777d85fe220",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "VIT/MAT/1001/Moving Functions.md",
-    "piss/Me Ne Frego.md",
-    "VIT/MAT/1001/Even&Odd Functions.md",
-    "Physics/Electromagnetism/Circuits/Capacitor.md",
-    "VIT/MAT/Drawing 2026-08-19 21.31.53.excalidraw.md",
+    "piss/Scene Ideas.md",
+    "piss/Video Ideas.md",
+    "VIT/PHY/1008/Interference.md",
+    "VIT/PHY/1008/Interference Intensity Distribution.md",
+    "VIT/PHY/1008/Fringe Width.md",
+    "VIT/PHY/1008/Newton Rings.md",
+    "VIT/PHY/1008/Thin Film.md",
+    "VIT/PHY/1008/Coherent Sources.md",
+    "VIT/PHY/1008/Sustained Interference Conditions.md",
+    "VIT/PHY/1008/Path & Phase Difference.md",
+    "VIT/PHY/1008/Untitled.md",
+    "VIT/PHY/1008/De Broglie Wavelength.md",
+    "Physics/Work.md",
+    "Physics/Thin rod at Central axis.md",
+    "Physics/Solid Sphere.md",
+    "Physics/Sigfigs.md",
+    "Physics/Projectile Motion.md",
+    "Physics/Electromagnetism/Electricity/Electric Dipole.md",
+    "Physics/Electromagnetism/Electricity/Coulomb's Law.md",
+    "Physics/Optics/Wave Optics/Wave Optics.md",
+    "Physics/Optics/Wave Optics/Huygens' Priciple.md",
+    "VIT/PHY/1008/Rayleigh's Criterion.md",
     "VIT/ECE/1002/Ideal Sources.md",
+    "VIT/ECE/1002/Series.md",
+    "VIT/MAT/1001/Moving Functions.md",
+    "VIT/MAT/1001/Concavity.md",
+    "VIT/PHY/1008",
+    "VIT/PHY",
+    "VIT/ECE/1002/Diagrams",
+    "VIT/ECE/1002/Untitled.canvas",
+    "VIT/ECE/1002/Untitled.circuit-sketcher",
     "VIT/MAT/1001",
     "VIT/MAT",
-    "VIT/ECE/1002/Active.md",
-    "VIT/ECE/1002/Drawing 2026-08-19 17.14.30.excalidraw.md",
-    "VIT/ECE/1002/Drawing 2026-08-19 17.14.30.excalidraw 1.md",
-    "VIT/ECE/1002/Drawing 2026-08-19 12.44.33.excalidraw.md",
-    "VIT/ECE/1002/Lateral.md",
-    "VIT/ECE/1002/Linearity.md",
-    "VIT/ECE/1002/Untitled.md",
     "2026-04-16-194937_hyprshot.png",
-    "piss/VTop-2.md",
     "VIT/ECE/1002",
     "VIT/ECE",
     "VIT",
-    "piss/todo.md",
-    "piss/Soi Script.md",
-    "piss/colleg.md",
-    "piss/Viveka.md",
-    "piss/Group think V2.md",
-    "Thermodynamics/Thermodynamic Processes/Isothermal.md",
-    "Thermodynamics/Thermodynamic Processes/Isochoric.md",
-    "Thermodynamics/Thermodynamic Processes/Isobaric.md",
-    "Thermodynamics/Thermodynamic Processes/Adiabatic.md",
     "Thermodynamics/Diagrams/NonLInearTriatomic.png",
     "Thermodynamics/Diagrams/Monoatomic.png",
     "Thermodynamics/Diagrams/LinearTriatomic.png",
     "Thermodynamics/Diagrams/Diatomic.png",
-    "Thermodynamics/Zeroth Law.md",
-    "Thermodynamics/Third Law.md",
     "Thermodynamics/Thermodynamic Processes",
-    "Thermodynamics/Diagrams",
-    "Thermodynamics",
-    "Physics/Rotational Motion",
-    "Physics/Optics/Wave Optics",
     "Physics/Electromagnetism/Magnetism/Untitled.canvas",
     "Untitled.canvas",
     "Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png"

@@ -11,6 +11,8 @@
   "dataview",
   "obsidian-style-settings",
   "obsidian-excalidraw-plugin",
-  "obsidian-desmos",
-  "circuit-sketcher"
+  "circuit-sketcher",
+  "graphs",
+  "lmath",
+  "obsidian-completr"
 ]

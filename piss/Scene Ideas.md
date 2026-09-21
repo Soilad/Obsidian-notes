@@ -1,0 +1,10 @@
+- Hotline miami reference
+- Vaibhav shoots a fucking dog
+- Contract Man interview
+- Lenin Dajjal reveal
+- Yuchi & Loji date
+- Lenin Sawman fight
+- Ali-khan (Alucard ripoff)
+- Lenin VS Sivaji's chitti
+- Dajjal meta video
+- Sawman gives Subramaniam dating advice

@@ -1,4 +1,4 @@
-![[VIT/ECE/1002/Drawing 2026-08-19 12.44.33.excalidraw]]
+![[Drawing 2026-08-19 12.44.33.excalidraw]]
 ## Active ($\forall P, sign(P) \neq constant$)
 - Able to supply energy
 - ### Examples
