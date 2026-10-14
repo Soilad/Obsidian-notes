@@ -1,10 +1,31 @@
 - Hotline miami reference
 - Vaibhav shoots a fucking dog
 - Contract Man interview
-- Lenin Dajjal reveal
 - Yuchi & Loji date
 - Lenin Sawman fight
 - Ali-khan (Alucard ripoff)
-- Lenin VS Sivaji's chitti
-- Dajjal meta video
+- Some guy that's just called Weapon
+
+- Contract man stares at himself in a bloodied communal bathroom and shadow lady tries to console him for him killing her in self defense
+- Sawman VS Sivaji's saw-chitti
+- Lenin steals a letter to Zweistein about contract man coming back and stays on alert for him
+- Lenin comes back from uni and the soilad gang celebrates it
+- Sawman should point out that yuchi is 3D now
+- Zweistein refers to his yuri knowledge to help yuchi
 - Sawman gives Subramaniam dating advice
+- Subramaniam says he killed god
+- Sawman makes Subramaniam fake date yuchi to make loji jealous (mention tht like Adistia is as old as yuchi maybe idk)
+- Sawman and Subramaniam argue about hot Zoroastrian women
+- Sawman and Vaibhav argue about not hot Zoroastrian erasure
+- Loji VS Subramaniam
+- Jayjay gets hit by a fucking F1 (the entire race track)
+- Contract man hacks chitti and skeddadles
+- Zweistein tells Lenin that having a wife and family is mid and getting gnosis is cool
+- Lenin's Lucifer archon giving more lore drop to archon and aeon
+- Sawman and Vaibhav and Subramaniam fight Mecha-Sivaji
+
+
+- Lenin Dajjal reveal
+- Dajjal meta video
+- Anti-christ x Anti-satan VS AI Yuri
+- Sawman makes Zweistein not cut himself but Zweistein cuts Sawman instead and cries and falls into his arms doomed yaoi style

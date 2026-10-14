@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"116bc46dd22c1888","x":-600,"y":-139,"width":314,"height":400,"type":"file","file":"shut.png"},
+		{"id":"2a009fd1741fecc6","x":-80,"y":160,"width":400,"height":499,"type":"file","file":"VIT/PHY/1008/Single Slit.md"},
+		{"id":"9ca887ceec5216e5","x":520,"y":-598,"width":1320,"height":659,"type":"link","url":"https://soilad.neocities.org"}
+	],
+	"edges":[
+		{"id":"a61903977160603a","fromNode":"116bc46dd22c1888","fromSide":"right","toNode":"2a009fd1741fecc6","toSide":"left"},
+		{"id":"e792835334382b2f","fromNode":"9ca887ceec5216e5","fromSide":"left","toNode":"2a009fd1741fecc6","toSide":"top"}
+	]
+}

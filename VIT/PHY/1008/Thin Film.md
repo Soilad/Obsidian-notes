@@ -7,8 +7,8 @@ When light falls on a thin transparent film, part of the light is reflected from
 > When light reflects from higher IOR. It undergoes a phase change of $\pi$
 	equivalent to additional path difference of $\frac{\lambda}{2}$
 ## Path Difference
-- $\Delta = 2\mu t\cos r$
-- $\Delta = 2\mu t\cos r +\frac{\lambda}{2}$ For 1 phase reversal
+- $\Delta = 2\mu t\cos \angle r$
+- $\Delta = 2\mu t\cos \angle r +\frac{\lambda}{2}$ For 1 phase reversal
 ## Bright and Dark Fringes
-- Bright: $2\mu t \cos r = (n + \frac{1}{2})\lambda$
-- Dark: $2\mu t \cos r = n\lambda$
+- Bright: $2\mu t \cos \angle r = (n + \frac{1}{2})\lambda$
+- Dark: $2\mu t \cos \angle r = n\lambda$

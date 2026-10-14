@@ -28,6 +28,12 @@ $$
 \implies D_n^2 = 4(n+\frac{1}{2})\lambda R
 \end{align}
 $$
+# Index of Refraction
+$$
+\begin{align}
+\implies D_n^2 = \frac {4p\lambda R} {\mu}\\
+\end{align}
+$$
 ### Wavelength From Newton Rings
 $$
 \begin{align}
@@ -43,5 +49,11 @@ $$
 D_n^2 = 4n\lambda R\\
 \implies R = \frac{D_n^2}{4n\lambda}\\
 \implies R = \frac{D_{n+p}^2 - D_n^2}{4p\lambda}\\
+\end{align}
+$$
+### Fringe Width
+$$
+\begin{align}
+\beta = \frac{\lambda}{2\theta}
 \end{align}
 $$

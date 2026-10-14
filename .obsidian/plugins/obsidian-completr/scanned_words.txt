@@ -13,6 +13,7 @@ path
 plano
 plane
 plate
+polarizations
 on
 of
 or
@@ -39,6 +40,7 @@ films
 fringe
 fucking
 fight
+frequency
 behaves
 by
 belongs
@@ -46,6 +48,7 @@ between
 bright
 bubbles
 bauhaus
+be
 like
 light
 lower
@@ -78,6 +81,7 @@ anti
 additional
 air
 abt
+amplitudes
 emits
 energy
 expected
@@ -91,6 +95,7 @@ Source
 Shape
 Sphere
 Sawman
+Same
 in
 is
 instant
@@ -127,6 +132,8 @@ coatings
 change
 circular
 convex
+constant
+comparable
 new
 numbers
 Light
@@ -146,6 +153,7 @@ Distance
 Dark
 Diameter
 Dajjal
+Distribution
 How
 Hotline
 moves
@@ -160,6 +168,7 @@ Cylindrical
 Concentric
 Curvature
 Contract
+Constant
 At
 Axial
 Infinity
@@ -167,6 +176,8 @@ IOR
 In
 Is
 It
+Interference
+Intensity
 Ray
 Reversal
 Ring
@@ -176,6 +187,7 @@ Front
 From
 For
 Fringes
+Frequency
 NOTE
 Newton
 half
@@ -195,9 +207,11 @@ reversal
 ripoff
 reference
 reveal
+related
 Maximum
 Minimum
 Man
+Must
 YDSE
 Yuchi
 upper
