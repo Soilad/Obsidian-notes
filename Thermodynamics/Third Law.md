@@ -1,2 +1,0 @@
-- Statement: The entropy of a perfectly crystalline solid approaches zero as the absolute temperature approaches zero (0 K).
-- Allows calculation of absolute entropies of substances at different temperatures.

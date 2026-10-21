@@ -1,1 +1,0 @@
-- when reactions occur without intervention (rusting of iron, dissolving sugar)

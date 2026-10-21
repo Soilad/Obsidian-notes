@@ -1,2 +1,0 @@
-- Total [[Enthalpy]] change is constant be it in one step or several
-- Useful to find [[Enthalpy]] changes of reactions that can't be measured directly

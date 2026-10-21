@@ -1,5 +1,0 @@
-- The total energy of all the particles in the system
-- [[State Function]]
-- It has all the Kinetic energy and Potential energy of all the particles
-- Depends only on the system
-- changes are result of [[Heat]]/[[Work]] exchange
