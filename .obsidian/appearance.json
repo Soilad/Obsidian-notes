@@ -4,7 +4,7 @@
   "cssTheme": "Blur",
   "theme": "obsidian",
   "interfaceFontFamily": "Soilad,Arial",
-  "textFontFamily": "Soilad,Arial",
-  "monospaceFontFamily": "",
-  "nativeMenus": true
+  "textFontFamily": "0xProto Nerd Font Mono,Arial,Soilad",
+  "monospaceFontFamily": "0xProto Nerd Font Mono",
+  "nativeMenus": false
 }

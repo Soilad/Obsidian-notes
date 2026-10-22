@@ -13,5 +13,6 @@
   "obsidian-excalidraw-plugin",
   "circuit-sketcher",
   "graphs",
-  "lmath"
+  "lmath",
+  "edit-in-neovim"
 ]

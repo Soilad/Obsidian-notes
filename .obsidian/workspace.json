@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIT/PHY/1008/Diffraction Grating.md",
+                "file": "VIT/ETH/Seven Deadly Sins Of AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diffraction Grating"
+              "title": "Seven Deadly Sins Of AI"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -209,8 +210,14 @@
       "circuit-sketcher:Create new Circuit Sketcher file": false
     }
   },
-  "active": "cbfbf2e9e30adbe5",
+  "active": "3cb4699563125538",
   "lastOpenFiles": [
+    "VIT/ETH/Seven Deadly Sins Of AI.md~",
+    "VIT/ETH/Ethics Topics.md",
+    "VIT/ETH/Seven Deadly Sins Of AI.md",
+    "VIT/ETH/Seven Deadly Sins.md~",
+    "VIT/ETH/Ethical Frameworks.md",
+    "VIT/PHY/1008/Diffraction Grating.md",
     "VIT/ETH",
     "VIT/PHY/1008/Newton Rings.md",
     "VIT/PHY/1008/Fringe Width.md",
@@ -223,7 +230,6 @@
     "shut.png",
     "VIT/PHY/1008/Thin Film.md",
     "VIT/PHY/1008/Single Slit.md",
-    "VIT/PHY/1008/Diffraction Grating.md",
     "VIT/PHY/1008/Double Slit.md",
     "VIT/PHY/1008/Interference.md",
     "VIT/PHY/1008/De Broglie Wavelength.md",
@@ -237,9 +243,6 @@
     "VIT/PHY/1008/Sustained Interference Conditions.md",
     "VIT/PHY/1008/Interference Intensity Distribution.md",
     "Physics/Work.md",
-    "Physics/Thin rod at Central axis.md",
-    "Physics/Solid Sphere.md",
-    "Physics/Sigfigs.md",
     "VIT/PHY/1008",
     "VIT/PHY",
     "VIT/ECE/1002/Diagrams",
@@ -250,12 +253,10 @@
     "2026-04-16-194937_hyprshot.png",
     "VIT/ECE/1002",
     "VIT/ECE",
-    "VIT",
     "Thermodynamics/Diagrams/NonLInearTriatomic.png",
     "Thermodynamics/Diagrams/Monoatomic.png",
     "Thermodynamics/Diagrams/LinearTriatomic.png",
     "Thermodynamics/Diagrams/Diatomic.png",
-    "Thermodynamics/Thermodynamic Processes",
     "Physics/Electromagnetism/Magnetism/Untitled.canvas",
     "Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png"
   ]

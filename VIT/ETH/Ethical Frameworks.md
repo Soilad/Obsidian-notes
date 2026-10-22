@@ -1,0 +1,5 @@
+- **Virtue ethics**: What is moral is what makes us the best person we could be.
+- **Deontology**: What is moral is what follows from absolute moral duties.
+- **Utilitarianism**: What is morally right is what generates the best outcome for the largest number of people.
+- **Rights-based Ethics**: What is moral is that which is in accord with everyone's rights.
+- **Care-based Ethics**: What is moral is that which promotes healthy relationships and the well-being of individuals and their interdependence.
