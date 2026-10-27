@@ -1,10 +1,10 @@
 ## FoodWater
-- [ ] Sanitary Bag
-	- [ ] Electric Tooth
-	- [ ] Trimmer
-	- [ ] Tongue Scraper
+- [x] Sanitary Bag
+	- [x] Electric Tooth
+	- [x] Trimmer
+	- [x] Tongue Scraper
 	- [x] Deodorant
-	- [ ] Carbon-Fiber Whiteface Facewash
+	- [x] Carbon-Fiber Whiteface Facewash
 - [ ] Electric Stove
 - [x] Muhammadian eyeliner
 - [ ] Olive Oil?
@@ -14,7 +14,7 @@
 ## Safety
 - [ ] Zipties
 - [ ] A4 
-- [ ] Stationary
+- [x] Stationary
 - [ ] Staplers
 - [ ] Knife
 - [ ] Taser
@@ -22,7 +22,7 @@
 - [x] Phone
 - [x] IPad
 - [x] Better Macbook
-- [ ] Doingle
+- [x] Doingle
 - [x] Pen drives
 - [x] IPad Pencil
 - [x] big asf charger

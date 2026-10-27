@@ -1,0 +1,3 @@
+- Create Sub-Topic Sub-Infographic
+- Use AI to generate script and give it to me to un-AI it
+- 

@@ -1,0 +1,76 @@
+# 500 - 750 AD
+- [[Pandyas]] conquered [[Cholas]] and [[Cheras]] (United Tamil Kingdom)
+- Allied with the [[Kushans]]
+- Breaks alliance with [[Kushans]] because war with [[Sassanids]]
+- Alliance with Western [[Satraps]]
+- [[Han Dynasty]] collapses
+- [[Tamil]] x [[Satrap]] vs [[Satavahana]]
+- Expansion into Bengali tribal Kingdoms
+- Cleaning up subcontinent any% speedrun
+- Non-Tamil Groups move east and form [[Srivijaya]]
+- [[Tamil]] x [[Suvarnabhumi]] Rivalry
+- [[Tamil]] x [[Xianbei]] Alliance
+- [[Rouran]] migration to Central Asia
+- [[Tamil]] helps [[Xianbei]] unify most of [[China]]
+- [[Japan]] conquers [[Gogureyo]]
+- Wu Zeitan pisses off [[Tamil]] Kingdom
+- [[Tamil]] x [[Japan]] x [[Rouran]] Alliance (Anti China Squad)
+- [[Japan]] adopts [[Tamil]] Script
+- [[Rouran]] Invades [[Satraps]] at some point
+- [[Tamil]] x [[Satraps]] vs [[Rouran]] x [[China]]
+- [[Satraps]] get op and destroys [[Sassanids]]
+		**Releases 
+	- [[Atropatene]]
+	- [[Fars]]
+	- [[Mazadarya]]
+# 700 - 1,000 AD
+- [[Satraps]] x [[Tamil]] vs the fucking [[Caliphate]]
+- [[Tamil]] x [[Japan]] vs [[China]] x [[Suvarnabhumi]]
+- [[Tamil]] gets [[Suvarnabhumi]] + [[Japan]] gets more into Manchuria
+- [[Tamil]] traders discover Matcha tea and decide to make ports in Kamchatka
+- [[Tamil]] x [[Japan]] vs [[China]] (v2)
+- [[China]] releases back Suvarnabhumi, [[Japan]] looses some land in Manchuria
+- [[Tamil]] kingdom almost collapses
+	**Releases** 
+	- [[Maratha]]
+	- [[Anuradhapura]]
+	- [[Suvarnabhumi]]
+	- [[Vangala]]
+- The fucking [[Caliphate]] vs [[Satraps]] x [[Tamil]] (x2)
+- [[Satraps]] </3 [[Tamil]]
+- [[Satraps]] gets cucked
+- [[Tamil]] Loans any%
+- conquered [[Maratha]] and [[Vangala]]
+- [[Tamil]] vs [[Satraps]]
+	**Releases** 
+	- [[Kushans]]
+	- [[Seljuks]]
+- [[Tamil]] becomes [[India]]
+- [[India]] x [[Macedonia]]
+# 1,000 - 1,500 AD
+- Indian traders accidentaly discover Alaska and tells NO ONE ABOUT IT
+- [[India]] starts colonizing
+- [[India]] x [[Japan]] vs [[China]]
+- [[India]] gets Yunnan + [[Japan]] gets Manchuria
+- [[Japan]] Finds out about The New World and hates [[India]] for having land they want so [[India]] sells California + Kamchatka to them
+- [[Japan]] starts colonizing
+- [[Outer Korea]] colony
+- India vs [[Kushans]]
+- India vs [[Atropatene]] x [[Fars]] x [[Mazadarya]]
+- [[China]] starts colonizing New Zealand
+- [[Xinjiang]] colony
+- [[Srivijaya]] starts colonizing
+- [[Papua]] colony
+- [[Lemuria]] colony
+- [[Japanese Pacific]] colony
+- Sikhism started existing
+# 1,500 - 1,900 AD
+- [[India]] x [[Japan]] vs [[China]] (v3)
+- [[India]] gets [[Tibet]] and [[Hong Kong]], [[Japan]] gets [[Taipei]]
+- [[India]] vs [[Srivijaya]]
+- [[India]] gets Aceh
+- [[Srivijaya]] vs [[India]]
+- [[Lemuria]] vs [[Papua]]
+- [[Lemuria]] gets southeast [[Papua]]
+- [[Xinjiang]] vs [[India]]
+- 

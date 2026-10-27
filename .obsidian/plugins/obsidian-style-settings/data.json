@@ -26,5 +26,8 @@
   "ulu-theme-settings@@ulu-neon-tags": true,
   "ulu-theme-settings@@ulu-glass-chev": true,
   "ulu-theme-settings@@ulu-custom-d-bg-1": "#000000",
-  "ulu-theme-settings@@ulu-custom-d-bg-2": "#000000"
+  "ulu-theme-settings@@ulu-custom-d-bg-2": "#000000",
+  "maple-basic@@color-dark-dim-disable": true,
+  "maple-basic@@color-highlight-only": false,
+  "maple-basic@@color-scheme": "color-use-default"
 }

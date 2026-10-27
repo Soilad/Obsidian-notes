@@ -6,5 +6,6 @@
   "interfaceFontFamily": "Soilad,Arial",
   "textFontFamily": "0xProto Nerd Font Mono,Arial,Soilad",
   "monospaceFontFamily": "0xProto Nerd Font Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": true
 }
