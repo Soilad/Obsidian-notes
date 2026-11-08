@@ -4,7 +4,6 @@
   "obsidian-chem",
   "chem",
   "obsidian-tikzjax",
-  "obsidian-relative-line-numbers",
   "obsidian-git",
   "table-editor-obsidian",
   "sheets",
@@ -15,5 +14,10 @@
   "graphs",
   "lmath",
   "edit-in-neovim",
-  "enchanted-animations"
+  "enchanted-animations",
+  "better-vim",
+  "copilot",
+  "obsidian-spaced-repetition",
+  "windrose-md",
+  "storyline"
 ]

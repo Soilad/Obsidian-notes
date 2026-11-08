@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "340eb3dc695146d4",
+        "id": "4b4fa89755f3b393",
         "type": "tabs",
         "children": [
           {
-            "id": "308b44f6232dcbc5",
+            "id": "eb10ce25e9e40d0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VIT/ETH/Sloth.md",
+                "file": "piss/Video Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sloth"
-            }
-          },
-          {
-            "id": "b84ef85e91ce8e39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIT/ETH/Ethical Frameworks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ethical Frameworks"
+              "title": "Video Ideas"
             }
           }
         ]
@@ -92,13 +78,39 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "1614ebd69a6b6f44",
+            "type": "leaf",
+            "state": {
+              "type": "story-line-navigator",
+              "state": {},
+              "icon": "compass",
+              "title": "StoryLine navigator"
+            }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "218a1f70666f1a82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06015ac6025c9c3a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.40756225585938
   },
   "right": {
     "id": "2641ef614483e8b1",
@@ -184,33 +196,43 @@
             }
           },
           {
-            "id": "06015ac6025c9c3a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "d4b3e409da153ceb",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "piss/Bangla Tenses.md"
+                "file": "piss/Soiladiverse/Map.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Bangla Tenses"
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "8773a3fd7f32127b",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent Chat"
+            }
+          },
+          {
+            "id": "263f5eee9d7ae62b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 347.52325439453125
+    "width": 346.67584228515625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,55 +243,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "circuit-sketcher:Create new Circuit Sketcher file": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "copilot:Open Copilot Agent Chat": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-git:Open Git source control": false,
+      "windrose-md:Open map view": false,
+      "storyline:StoryLine projects": false
     }
   },
-  "active": "308b44f6232dcbc5",
+  "active": "860e0951809488f0",
   "lastOpenFiles": [
-    "VIT/ETH/Ethical Frameworks.md",
-    "VIT/ETH/Sloth.md",
-    "VIT/ETH/Ethics Topics.md",
-    "VIT/ETH/What Each Sub-Group should do probably.md",
-    "VIT/ETH/Seven Deadly Sins Of AI.md",
-    "piss/colleg.md",
-    "piss/Me Ne Frego.md",
-    "piss/Soiladiverse/DravidianDusk/New World History IG.md",
-    "piss/Soiladiverse/DravidianDusk/European History IG.md",
-    "piss/Soiladiverse/DravidianDusk/Asian History IG.md",
-    "VIT/ETH/Seven Deadly Sins Of AI.md~",
-    "piss/create a link.md",
-    "piss/Drawing 2026-04-22 22.17.25.excalidraw.md",
-    "piss/jayjay shall ace his maths today.md",
-    "piss/Scene Ideas.md",
-    "piss/Soiladiverse/DravidianDusk",
-    "piss/Soiladiverse",
     "piss/Video Ideas.md",
-    "VIT/ETH/Seven Deadly Sins.md~",
-    "VIT/PHY/1008/Diffraction Grating.md",
-    "VIT/ETH",
-    "VIT/PHY/1008/Newton Rings.md",
-    "VIT/PHY/1008/Fringe Width.md",
-    "piss/Soi Script.md",
-    "piss/todo.md",
+    "windrose-md-data.bak-daily.json",
+    "windrose-md-data.bak1.json",
+    "windrose-md-data.json",
+    "piss/Soiladiverse/Map.md",
+    "piss/Soiladiverse/assets/sawman.png",
+    "piss/Soiladiverse/assets/hapi.png",
+    "piss/Soiladiverse/assets",
+    "StoryLine/Soiladiverse/Images/hapi.png",
+    "StoryLine/Soiladiverse/Images",
+    "StoryLine/Soiladiverse/System/field-templates.json",
+    "StoryLine/Soiladiverse/Codex/Characters/Chain Sawman.md",
+    "piss/Soiladiverse/DravidianDusk/Asian History IG.md",
+    "StoryLine/Soiladiverse/Scenes/00-01 SoiHistory.md",
+    "StoryLine/Soiladiverse/System/manuscript-state.json",
+    "StoryLine/Soiladiverse/System/custom-sections.json",
+    "StoryLine/Soiladiverse/System/characters.json",
+    "StoryLine/Soiladiverse/System/stats.json",
+    "StoryLine/Soiladiverse/Soiladiverse.md",
+    "piss/Soiladiverse/DravidianDusk/SOSR/Decision Docs.md",
+    "2026-11-07.md",
+    "piss/Soiladiverse/SawmanRPG.md",
+    "file:/home/soilad/Projects/Spirits-Of-Steel-Rebirth/CLAUDE.md",
+    "copilot/skills/copilot-fetch-x/SKILL.md",
+    "copilot/skills/copilot-youtube-transcript/SKILL.md",
+    "piss/Soiladiverse/DravidianDusk/SOSR/TODOs.md",
+    "piss/Soiladiverse/DravidianDusk/SOSR/Functions.md",
+    "VIT/PHY/Random ahh formulas.md",
+    "VIT/ETH/Seven Deadly Sins Of AI.md",
+    "VIT/ETH/What Each Sub-Group should do probably.md",
+    "piss/Soi's Proffessor priority list.md",
+    "piss/Cool professors that are cool B).md",
+    "piss/Drawing 2026-04-22 22.17.25.excalidraw.md",
+    "VIT/ETH/Ethics Topics.md",
+    "VIT/ETH/Ethical Frameworks.md",
+    "VIT/ETH/Sub-Topics/Lust.md",
+    "VIT/ETH/Sub-Topics/Wrath.md",
+    "VIT/ETH/Sub-Topics/Untitled.md",
+    "VIT/ETH/Sub-Topics/Sloth.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "shut.png",
-    "VIT/PHY/1008/Thin Film.md",
-    "VIT/PHY/1008/Single Slit.md",
-    "VIT/PHY/1008/Double Slit.md",
-    "VIT/PHY/1008/Interference.md",
-    "VIT/PHY/1008/De Broglie Wavelength.md",
-    "VIT/PHY/1008/Coherent Sources.md",
-    "VIT/PHY/1008",
-    "VIT/PHY",
-    "VIT/ECE/1002/Diagrams",
     "VIT/ECE/1002/Untitled.canvas",
-    "VIT/ECE/1002/Untitled.circuit-sketcher",
-    "VIT/MAT/1001",
     "2026-04-16-194937_hyprshot.png",
     "Thermodynamics/Diagrams/NonLInearTriatomic.png",
     "Thermodynamics/Diagrams/Monoatomic.png",

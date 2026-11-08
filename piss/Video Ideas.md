@@ -1,6 +1,6 @@
 Unreality of AI Slop
 ECS-maxxing
-soyjack abt yuri
+Yuri and the true meaning of masculinity
 soyjack abt the bauhaus movement
 ripoff martincitopants
 ripoff living ironically in europe
