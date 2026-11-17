@@ -1,9 +1,0 @@
-- [ ] typing moving in decisions menu
-- [ ] dont use one big JSON
-- [ ] make cultures do stuff
-- [ ] animations
-- [ ] typing moving in decisions menu
-- [ ] typing moving in decisions menu
-- [ ] enter and clicking a country open the sidemenu differently
-- [ ] fix starts loading too long
-- [ ] multiplayer

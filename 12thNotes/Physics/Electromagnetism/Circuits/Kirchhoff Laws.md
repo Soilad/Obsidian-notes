@@ -1,0 +1,2 @@
+- [[Kirchhoff Current Law]] (Junction rule): current in = current out at a node
+- [[Kirchhoff Voltage Law]] (Loop rule): sum of voltages in a closed loop = 0

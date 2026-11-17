@@ -1,11 +1,12 @@
 {
   "accentColor": "#ff0000",
   "translucency": true,
-  "cssTheme": "Oxygen",
+  "cssTheme": "Primary",
   "theme": "obsidian",
   "interfaceFontFamily": "Soilad,Arial",
   "textFontFamily": "0xProto Nerd Font Mono,Arial,Soilad",
   "monospaceFontFamily": "0xProto Nerd Font Mono",
   "nativeMenus": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }

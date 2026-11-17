@@ -7,12 +7,5 @@
       "key": "Tab"
     }
   ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "I"
-    }
-  ]
+  "obsidian-excalidraw-plugin:save": []
 }

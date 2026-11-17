@@ -1,0 +1,14 @@
+{
+  "hiddenButtons": [
+    "Open Git source control",
+    "Open Copilot Agent Chat",
+    "Review flashcards",
+    "New drawing",
+    "Create new base",
+    "Open command palette",
+    "Create new canvas",
+    "Open graph view",
+    "Open quick switcher",
+    "Create new Circuit Sketcher file"
+  ]
+}

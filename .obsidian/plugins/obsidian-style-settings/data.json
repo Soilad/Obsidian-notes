@@ -47,5 +47,20 @@
   "oxygen-style@@bg2@@dark": "#000000",
   "oxygen-style@@ui1@@dark": "#000000",
   "oxygen-style@@ui2@@dark": "#FF0000",
-  "oxygen-style@@ax1@@dark": "#FF0000"
+  "oxygen-style@@ax1@@dark": "#FF0000",
+  "primary-theme@@ribbon_styles": "ribbon-default",
+  "primary-theme@@ribbon-radius": "12px",
+  "primary-theme@@interface_editor-bg": "editor-bg-default",
+  "primary-theme@@editor-file-header": "file-header-hover",
+  "primary-theme@@editor-bgpattern-color@@dark": "#000000",
+  "entry-point@@minimal-mode": true,
+  "entry-point@@minimal-sidebar": "sidebar-hover",
+  "entry-point@@smooth-mode": false,
+  "entry-point@@color-scheme-selector": "color-scheme-golden-coffee",
+  "entry-point@@separate-color-scheme": false,
+  "entry-point@@floating-sides": false,
+  "obsidian-composer-theme@@theme-variant-dark": "composer--NiScheme-dark",
+  "Olivier-s-Theme@@OT-tab-title-highlighted": false,
+  "Olivier-s-Theme@@OT-suppress-title-bar-breadcrumb": true,
+  "Olivier-s-Theme@@OT-reduce-sidebar-ui": true
 }

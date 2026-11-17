@@ -103,7 +103,7 @@
     "backends": {
       "claude": {
         "defaultModel": {
-          "baseModelId": "default",
+          "baseModelId": "haiku",
           "effort": "low"
         }
       }
@@ -431,7 +431,7 @@
       "info": {
         "id": "fable",
         "displayName": "Fable 5.1",
-        "description": "For your toughest challenges"
+        "description": "Most capable for your hardest and longest-running tasks"
       },
       "configuredModelId": "ddb4aee5-55cd-4810-9060-47f62a29ee6f",
       "configuredAt": 1794081023804
@@ -468,6 +468,16 @@
       },
       "configuredModelId": "2ba74118-555c-458f-b437-d551987fb2bd",
       "configuredAt": 1794081023805
+    },
+    {
+      "providerId": "00966838-f9f4-437d-a83d-681d98aebc41",
+      "info": {
+        "id": "claude-fable-5-2",
+        "displayName": "Fable 5.2",
+        "description": "For your toughest challenges"
+      },
+      "configuredModelId": "a6512bb1-2a61-40aa-913b-308254012b08",
+      "configuredAt": 1794368221882
     }
   ],
   "backends": {
@@ -568,25 +578,6 @@
         }
       },
       {
-        "id": "deepseek-v4-flash-0731",
-        "displayName": "DeepSeek V4 Flash 0731",
-        "description": "The July 2026 DeepSeek V4 Flash snapshot: fast, cheap, and broadly capable.",
-        "toolCall": true,
-        "reasoning": true,
-        "reasoningEfforts": [],
-        "modalities": {
-          "input": [
-            "text"
-          ],
-          "output": [
-            "text"
-          ]
-        },
-        "limits": {
-          "context": 1048576
-        }
-      },
-      {
         "id": "deepseek-v4.1-flash",
         "displayName": "DeepSeek V4.1 Flash",
         "description": "Fast multimodal reasoning for coding and agentic tasks.",
@@ -655,6 +646,8 @@
       "minimax-m3"
     ]
   },
+  "connectors": [],
+  "customConnectors": [],
   "miyoConnectionMode": "local",
   "_keychainVaultId": "0d4f8c89",
   "settingsVersion": 16

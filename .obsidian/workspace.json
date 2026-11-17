@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4b4fa89755f3b393",
+        "id": "356f1d82f92e4d20",
         "type": "tabs",
         "children": [
           {
-            "id": "eb10ce25e9e40d0d",
+            "id": "9b6083f89872bfcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-11-07.md",
+                "file": "VIT/MAT/1001/Lagrange Multiplier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-07"
+              "title": "Lagrange Multiplier"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "37292c095972c721",
         "type": "tabs",
+        "dimension": 60.60606060606061,
         "children": [
           {
             "id": "8337e45b0666acd8",
@@ -65,28 +66,18 @@
             }
           },
           {
-            "id": "860e0951809488f0",
+            "id": "369e187f84e40ebe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
-            }
-          },
-          {
-            "id": "1614ebd69a6b6f44",
-            "type": "leaf",
-            "state": {
-              "type": "story-line-navigator",
-              "state": {},
-              "icon": "compass",
-              "title": "StoryLine navigator"
             }
           }
         ],
@@ -95,6 +86,7 @@
       {
         "id": "218a1f70666f1a82",
         "type": "tabs",
+        "dimension": 39.39393939393939,
         "children": [
           {
             "id": "06015ac6025c9c3a",
@@ -110,15 +102,54 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.40756225585938
+    "width": 365.853515625
   },
   "right": {
     "id": "2641ef614483e8b1",
     "type": "split",
     "children": [
       {
+        "id": "7e437a398282ac74",
+        "type": "tabs",
+        "dimension": 52.62032085561498,
+        "children": [
+          {
+            "id": "8773a3fd7f32127b",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-agent-chat-view",
+              "state": {},
+              "icon": "copilot-agent",
+              "title": "Copilot Agent Chat"
+            }
+          },
+          {
+            "id": "263f5eee9d7ae62b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "bcc81f7da1baeb64",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "9d929348ebaa7186",
         "type": "tabs",
+        "dimension": 47.37967914438503,
         "children": [
           {
             "id": "efaa87ec2a420645",
@@ -126,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carbonyl/Reactions/Carboxylic Acid Reactions.md",
+                "file": "VIT/MAT/1001/Taylor's Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +167,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Carboxylic Acid Reactions"
+              "title": "Backlinks"
             }
           },
           {
@@ -145,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VIT/MAT/1001/Taylor's Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -187,6 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "VIT/MAT/1001/Lagrange Multiplier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,109 +234,98 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "piss/Soiladiverse/Map.md"
+                "file": "VIT/MAT/1001/Lagrange Multiplier.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
             }
           },
           {
-            "id": "8773a3fd7f32127b",
+            "id": "abb7933b4bed9f40",
             "type": "leaf",
             "state": {
-              "type": "copilot-agent-chat-view",
+              "type": "graph",
               "state": {},
-              "icon": "copilot-agent",
-              "title": "Copilot Agent Chat"
-            }
-          },
-          {
-            "id": "263f5eee9d7ae62b",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 346.67584228515625
+    "width": 493.22265625
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "circuit-sketcher:Create new Circuit Sketcher file": false,
-      "publish:Publish changes...": false,
       "copilot:Open Copilot Agent Chat": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-git:Open Git source control": false,
-      "windrose-md:Open map view": false,
-      "storyline:StoryLine projects": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "263f5eee9d7ae62b",
+  "active": "9b6083f89872bfcc",
   "lastOpenFiles": [
-    "2026-11-07.md",
-    "Untitled 1.canvas",
+    "VIT/MAT/1001/Gradient.md",
+    "VIT/MAT/1001/Divergence.md",
+    "VIT/MAT/1001/Lagrange Multiplier.md",
+    "VIT/MAT/1001/Jacobian.md",
+    "VIT/MAT/1001/Field.md",
+    "VIT/MAT/1001/Curl&Divergence.md",
+    "VIT/ENG/1002/Product Description.md",
+    "VIT/ENG/1002/Modern Forms of Oration.md",
+    "VIT/ENG/1002/Logical Fallacies.md",
+    "VIT/ENG/1002/Resume and CV.md",
+    "12thNotes/Physics/Electromagnetism/Magnetism/Displacement Current.md",
+    "VIT/ENG/1002/Letter Writing.md",
+    "VIT/ENG/1002/Business Letter Types.md",
+    "VIT/ENG/1002/Memorandum.md",
+    "VIT/ENG/1002/Rhetorical Triangle.md",
+    "VIT/ENG/1002/Hook Line Sinker.md",
+    "VIT/ENG/1002/Presentations.md",
+    "VIT/ENG/1002/Figures of Speech.md",
+    "VIT/ENG/1002/Describing Graphs.md",
+    "VIT/ENG/1002/Process Description.md",
+    "VIT/ENG/1002/User Manual.md",
+    "VIT/ENG/1002/Imperatives and Sequence Markers.md",
+    "VIT/ENG/1002/Cross-Cultural Communication.md",
+    "VIT/MAT/1001/Curl.md",
+    "VIT/ENG/1002/Resume and CV.md.tmp.1964871.8715b3a8c30a",
+    "VIT/ENG/1002/Memorandum.md.tmp.1964871.7820d892dbdc",
+    "VIT/ENG/1002/Letter Writing.md.tmp.1964871.818e1ab879e6",
+    "Templates/Formula.md",
+    "VIT/ENG/1002/User Manual.md.tmp.1964871.b7cc3788ed5c",
+    "VIT/ENG/1002/Process Description.md.tmp.1964871.7796be21022a",
+    "VIT/ENG/1002/Product Description.md.tmp.1964871.3043ca9edf78",
+    "VIT/ENG/1002/Describing Graphs.md.tmp.1964871.8a8a3a710bff",
+    "VIT/ENG/1002/Presentations.md.tmp.1964871.3f06216563c1",
+    "VIT/ENG/1002/Modern Forms of Oration.md.tmp.1964871.2bb812f99524",
+    "VIT/ENG/1002/Figures of Speech.md.tmp.1964871.9e36360be4d6",
+    "VIT/MAT/1001/Total Differential.md",
+    "Untitled 2.canvas",
     "Untitled.canvas",
-    "shut.png",
-    "2026-04-16-194937_hyprshot.png",
-    "piss/Video Ideas.md",
-    "windrose-md-data.bak-daily.json",
-    "windrose-md-data.bak1.json",
-    "windrose-md-data.json",
-    "piss/Soiladiverse/Map.md",
-    "piss/Soiladiverse/assets/sawman.png",
-    "piss/Soiladiverse/assets/hapi.png",
-    "piss/Soiladiverse/assets",
-    "StoryLine/Soiladiverse/Images/hapi.png",
-    "StoryLine/Soiladiverse/Images",
-    "StoryLine/Soiladiverse/System/field-templates.json",
-    "StoryLine/Soiladiverse/Codex/Characters/Chain Sawman.md",
-    "piss/Soiladiverse/DravidianDusk/Asian History IG.md",
-    "StoryLine/Soiladiverse/Scenes/00-01 SoiHistory.md",
-    "StoryLine/Soiladiverse/System/manuscript-state.json",
-    "StoryLine/Soiladiverse/System/custom-sections.json",
-    "StoryLine/Soiladiverse/System/characters.json",
-    "StoryLine/Soiladiverse/System/stats.json",
-    "StoryLine/Soiladiverse/Soiladiverse.md",
-    "piss/Soiladiverse/DravidianDusk/SOSR/Decision Docs.md",
-    "piss/Soiladiverse/SawmanRPG.md",
-    "file:/home/soilad/Projects/Spirits-Of-Steel-Rebirth/CLAUDE.md",
-    "copilot/skills/copilot-fetch-x/SKILL.md",
-    "copilot/skills/copilot-youtube-transcript/SKILL.md",
-    "piss/Soiladiverse/DravidianDusk/SOSR/TODOs.md",
-    "piss/Soiladiverse/DravidianDusk/SOSR/Functions.md",
-    "VIT/PHY/Random ahh formulas.md",
-    "VIT/ETH/Seven Deadly Sins Of AI.md",
-    "VIT/ETH/What Each Sub-Group should do probably.md",
-    "piss/Soi's Proffessor priority list.md",
-    "piss/Cool professors that are cool B).md",
-    "piss/Drawing 2026-04-22 22.17.25.excalidraw.md",
-    "VIT/ETH/Ethics Topics.md",
-    "VIT/ETH/Ethical Frameworks.md",
-    "VIT/ETH/Sub-Topics/Lust.md",
-    "VIT/ETH/Sub-Topics/Wrath.md",
-    "VIT/ETH/Sub-Topics/Untitled.md",
+    "Untitled 1.canvas",
+    "12thNotes/Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png",
+    "12thNotes/Thermodynamics/Diagrams/NonLInearTriatomic.png",
+    "12thNotes/Thermodynamics/Diagrams/Monoatomic.png",
+    "12thNotes/Thermodynamics/Diagrams/LinearTriatomic.png",
+    "12thNotes/Thermodynamics/Diagrams/Diatomic.png",
+    "!2thNotes/Thermodynamics/Diagrams/NonLInearTriatomic.png",
+    "!2thNotes/Thermodynamics/Diagrams/Monoatomic.png",
+    "!2thNotes/Thermodynamics/Diagrams/LinearTriatomic.png",
+    "!2thNotes/Thermodynamics/Diagrams/Diatomic.png",
+    "!2thNotes/Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png",
     "VIT/ECE/1002/Untitled.canvas",
-    "Thermodynamics/Diagrams/NonLInearTriatomic.png",
-    "Thermodynamics/Diagrams/Monoatomic.png",
-    "Thermodynamics/Diagrams/LinearTriatomic.png",
-    "Thermodynamics/Diagrams/Diatomic.png",
-    "Physics/Electromagnetism/Magnetism/Untitled.canvas",
-    "Chem/Carbonyl/Diagrams/Enolate_aldol_mechanism.png"
+    "Physics/Electromagnetism/Magnetism/Untitled.canvas"
   ]
 }

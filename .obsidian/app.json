@@ -6,5 +6,6 @@
   "readableLineLength": false,
   "tabSize": 2,
   "showUnsupportedFiles": true,
-  "settingsPopoutWindow": false
+  "settingsPopoutWindow": false,
+  "promptDelete": false
 }

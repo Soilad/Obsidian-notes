@@ -13,11 +13,15 @@
   "circuit-sketcher",
   "graphs",
   "lmath",
-  "edit-in-neovim",
-  "enchanted-animations",
   "better-vim",
   "copilot",
   "obsidian-spaced-repetition",
-  "windrose-md",
-  "storyline"
+  "edit-in-neovim",
+  "obsidian-minimal-settings",
+  "obsidian-latex-suite",
+  "graph-exclusions",
+  "obsidian-relative-line-numbers",
+  "vim-commands",
+  "disable-tabs",
+  "ribbon-hider"
 ]

@@ -1,0 +1,9 @@
+/* Styles for Obsidian Ribbon Hider plugin */
+
+/*
+ * Applied to ribbon buttons the user has hidden. `!important` is needed to beat
+ * the inline `display` that Obsidian sets on ribbon items as it shows them.
+ */
+.ribbon-hider-hidden {
+  display: none !important;
+}

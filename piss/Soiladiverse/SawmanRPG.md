@@ -1,3 +1,0 @@
-- [ ] Machines as Crafting System
-- [ ] Battle system
-- [ ] Shops

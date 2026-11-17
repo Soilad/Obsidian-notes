@@ -1,0 +1,12 @@
+{
+  "exclusions": [
+    {
+      "query": ".excalidraw",
+      "enabled": true
+    },
+    {
+      "query": "agent__",
+      "enabled": true
+    }
+  ]
+}
