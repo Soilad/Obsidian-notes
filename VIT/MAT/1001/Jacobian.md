@@ -5,7 +5,7 @@ course:
 tags:
   - formula
 ---
-# Formula: $J(u,v) = \begin{vmatrix}\frac{\partial x}{\partial u} & \frac{\partial x}{\partial v}\\ \frac{\partial y}{\partial u} & \frac{\partial y}{\partial v}\end{vmatrix} = \frac{\partial (x, y)}{\partial (u, v)}$
+<errorChunk>Model request failed: No chat model enabled. Enable a model under Settings → Basic → Agents → Quick Chat, or add one on the BYOK tab.</errorChunk># Formula: $J(u,v) = \begin{vmatrix}\frac{\partial x}{\partial u} & \frac{\partial x}{\partial v}\\ \frac{\partial y}{\partial u} & \frac{\partial y}{\partial v}\end{vmatrix} = \frac{\partial (x, y)}{\partial (u, v)}$
 
 ## For single variable function: 
 > $\int f(x)dx = \int f(g(u)) g'(u)du$

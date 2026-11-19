@@ -11,10 +11,14 @@
             "id": "013d8341ad7e186c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VIT/MAT/1001/Jacobian.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Jacobian"
             }
           }
         ]
@@ -161,9 +165,19 @@
           "icon": "lucide-ghost",
           "title": "review-queue-list-view"
         }
+      },
+      {
+        "id": "63517841be58d368",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "message-square",
+          "title": "Copilot Quick Chat"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +195,10 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "013d8341ad7e186c",
+  "active": "63517841be58d368",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Can_you_give_me_some_previous_year_questions_to_solve@20261118_174502.md",
+    "VIT/MAT/1001/Jacobian.md",
     "Chem/Amines/Amines.md",
     "Chem/Carbonyl/Reactions/Carbonyl Reactions.md",
     "Chem/Carbonyl/Reactions/Fehling.md",
@@ -207,8 +223,6 @@
     "Chem/Nitration.md",
     "Chem/Halogenation.md",
     "Chem/Halo/Preparation/Halo Preparation.md",
-    "Chem/Amines/Reactions/Gattermann.md",
-    "Chem/Amines/Reactions/Sandmeyer.md",
     "Physics/Optics/Wave Optics"
   ]
 }
