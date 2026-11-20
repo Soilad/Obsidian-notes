@@ -1,6 +1,6 @@
 ---
 topic:
-date: '"{{date}}"'
+date: "{{date}}"
 course:
 tags:
   - formula

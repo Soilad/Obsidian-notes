@@ -1,3 +1,17 @@
+---
+date: "2026-11-19"
+course:
+tags:
+  - theorem
+---
+> 
+# Statement
+- 
+# Conditions
+- Has to be a [[Linear Circuit]]
+# Formal Statement
+- any [[Linear Circuit]] of only Voltage source, Current source, and [[Resistance]]s can be simplified at $A-B$ to an equivalent combination of Voltage source $V_{th}$ in [[Series]] with [[Resistance]] $R_{th}$
+# Examples
 ```tikz
 \usepackage{circuitikz}
 \begin{document}
@@ -27,7 +41,7 @@
 \end{circuitikz}
 \end{document}
 ```
-# $R_{{th}}$:
+## $R_{{th}}$:
 - **Voltage Sources:** Short Circuit
 - **Current Sources:** Open Circuit
 ```tikz
@@ -60,6 +74,6 @@
 
 ```
 $R_{th} = (R_{1}\parallel R_{2})+(R_{3}\parallel R_{4})$
-# $V_{th}$ :
+## $V_{th}$ :
 - $V_{th}= V_{A} - V_{B}$
 > If there's a reference node use [[KCL]] from one end to the reference node
