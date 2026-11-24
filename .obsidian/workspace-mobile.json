@@ -188,15 +188,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e2c3afd443910789",
+  "active": "013d8341ad7e186c",
   "lastOpenFiles": [
+    "2026-11-16.md",
     "VIT/MAT/1001/References/Fall Semester 2026-27 Freshers_MAT1001_ETH_AP2026273000812_2026-10-08_Reference-Material-I.pdf",
     "VIT/MAT/1001/References/Fall Semester 2026-27 Freshers_MAT1001_ETH_AP2026273000812_2026-09-24_Reference-Material-I.pdf",
     "VIT/MAT/1001/References/Fall Semester 2026-27 Freshers_MAT1001_ETH_AP2026273000812_2026-09-18_Reference-Material-I.pdf",
@@ -231,7 +231,6 @@
     "Chem/Carbonyl/Carbonyl.md",
     "Chem/Carbonyl/Preparation/Carbonyl Preparation.md",
     "Chem/Olics/Preparation/Ether Preparation.md",
-    "Chem/Olics/Ethers.md",
-    "Physics/Optics/Wave Optics"
+    "Chem/Olics/Ethers.md"
   ]
 }
