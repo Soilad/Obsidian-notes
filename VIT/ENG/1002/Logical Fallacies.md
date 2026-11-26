@@ -6,15 +6,15 @@ tags:
   - high-yield
 ---
 # The 7 fallacies tested
-| Fallacy | What happens | Tell-tale |
-| --- | --- | --- |
-| **Ad Hominem** | Attacks the **person**, not the argument | "He failed two exams, so ignore his idea" |
-| **Straw Man** | **Distorts/exaggerates** the opponent's claim, then attacks the fake version | "reduce some presentations" → "stop communication skills altogether" |
-| **Either-or (False Dilemma)** | Presents only **two options** when more exist | "Either X or we admit total failure" |
-| **Post Hoc (False Cause)** | B followed A, so A **caused** B | "Marks improved after I played music, so music did it" |
-| **Appeal to Pity** | Asks for **sympathy** instead of giving a valid reason | "My parents will be disappointed" |
-| **Ad Populum (Appeal to Popularity)** | **Many people believe it**, so it's true | "Everyone bought it, so it's the best" |
-| **Argument from Authority** | A famous person said it — but in an **unrelated field** | Cricketer endorsing a cybersecurity course |
+| Fallacy                               | What happens                                                                 | Tell-tale                                                            |
+| ------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| **Ad Hominem**                        | Attacks the **person**, not the argument                                     | "He failed two exams, so ignore his idea"                            |
+| **Straw Man**                         | **Distorts/exaggerates** the opponent's claim, then attacks the fake version | "reduce some presentations" → "stop communication skills altogether" |
+| **Either-or (False Dilemma)**         | Presents only **two options** when more exist                                | "Either X or we admit total failure"                                 |
+| **Post Hoc (False Cause)**            | B followed A, so A **caused** B                                              | "Marks improved after I played music, so music did it"               |
+| **Appeal to Pity**                    | Asks for **sympathy** instead of giving a valid reason                       | "My parents will be disappointed"                                    |
+| **Ad Populum (Appeal to Popularity)** | **Many people believe it**, so it's true                                     | "Everyone bought it, so it's the best"                               |
+| **Argument from Authority**           | A famous person said it — but in an **unrelated field**                      | Cricketer endorsing a cybersecurity course                           |
 
 # How to spot the confusable pairs
 - **Ad Hominem vs Straw Man** → Ad Hominem attacks *who said it*. Straw Man attacks *a twisted version of what was said*.
